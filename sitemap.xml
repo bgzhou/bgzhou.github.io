@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bingguizhou.github.io/index.html</loc>
+    
+    <lastmod>2023-08-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bingguizhou.github.io/misc/index.html</loc>
     
     <lastmod>2023-08-04</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://bingguizhou.github.io/research/index.html</loc>
-    
-    <lastmod>2023-08-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bingguizhou.github.io/index.html</loc>
     
     <lastmod>2023-08-04</lastmod>
     
