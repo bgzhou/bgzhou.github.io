@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bingguizhou.github.io/misc/index.html</loc>
+    
+    <lastmod>2023-09-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bingguizhou.github.io/research/index.html</loc>
     
     <lastmod>2023-09-26</lastmod>
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://bingguizhou.github.io/misc/index.html</loc>
+    <loc>https://bingguizhou.github.io/misc/index_with_moments.html</loc>
     
     <lastmod>2023-08-04</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bingguizhou.github.io/misc/index.md__with_roll_imgs_bak.html</loc>
+    <loc>https://bingguizhou.github.io/misc/index_with_roll_imgs_bak.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
