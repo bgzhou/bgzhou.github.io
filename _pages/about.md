@@ -61,7 +61,6 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - IEEE Vehicular Technology Conference: VTC2024-Spring
 
 **Journal Referee**
-
 - IEEE Wireless Communications (WCM)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
@@ -71,9 +70,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - Knowledge-Based Systems (KNOSYS)
 - Journal of Cleaner Production (JCLEPRO)
 
-
 **Conference Reviewer**
-
 - IEEE International Conference on Communications (ICC)
 - IEEE Global Communications Conference (GLOBECOM)
 - IEEE Vehicular Technology Conference (VTC)
@@ -83,7 +80,6 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - International Conference on Artificial Intelligence of Things and Systems (AIoTSys)
 
 **Involvement in Standard Contributions**
-
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
 
 # 🏆 Recognition and Awards
@@ -182,8 +178,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - In this work, we review existing studies that concern NLP for smart healthcare from the perspectives of technique and application.
 - We first elaborate on different **NLP approaches** and the **NLP pipeline for smart healthcare** from the technical point of view. Then, in the context of smart healthcare applications employing NLP techniques, we introduce several **representative smart healthcare scenarios**. We further discuss two **specific medical issues**, i.e., the coronavirus disease 2019 (COVID-19) pandemic and mental health, in which NLP-driven smart healthcare plays an important role. Finally, we discuss the **limitations** of current works and identify the **directions for future works**.
 
-<!-- - FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+<!-- - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420). -->
 </div>
 </div>
@@ -192,7 +187,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 (&dagger; for Equal Contribution; * for Corresponding Authorship; **J** for Journal Publications; **C** for Conference Publications; **P** for Patent Grants/Applications.)
 
-<!-- [Paper](https://ieeexplore.ieee.org/document/10627924) 【公式形式显示】 -->
+<!-- [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/abstract/document/9475482) 【公式形式显示】 -->
 ### Wireless Communications
 
 **[J10]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “LTAT Maximization of HARQ-IR-Assisted ISAC,” submitted to **IEEE Communications Letters**, under review, Aug. 2024.
