@@ -31,7 +31,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 - 2024-07-10 Successfully defended my PhD thesis! And I will joint the Department of Electrical and Electronic Engineering, Imperial College London, as a Postdoctoral Research Associate this Fall.
 
-- 2024-06-19 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10600118"><font color=Black>A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
+- 2024-06-19 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10600118"><font color=Black>A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
 
 - 2024-06-14 **<font color=Blue>New preprint</font>**: <a href="https://arxiv.org/abs/2406.08887"><font color=Black>Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios</font></a>.
 
@@ -106,7 +106,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/IEFSF.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
-[A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems](https://ieeexplore.ieee.org/document/10600118)
+[A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems](https://ieeexplore.ieee.org/document/10600118)
 
 **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang
  
@@ -200,7 +200,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 **[J6]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, Jul. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
-**[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, early access, pp. 1-16, Jul. 2024.  **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
+**[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
 
 **[J4]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
 
@@ -277,7 +277,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 ```[1] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay less but get more: A dual-attention-based channel estimation network for massive MIMO systems with low-density pilots,” IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 6061-6076, Jun. 2024.```
 
-```[2] Binggui Zhou, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A low-overhead incorporation-extrapolation based few-shot CSI feedback framework for massive MIMO systems,” IEEE Transactions on Wireless Communications, early access, pp. 1-16, Jul. 2024.```
+```[2] Binggui Zhou, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based few-shot CSI feedback framework for massive MIMO systems,” IEEE Transactions on Wireless Communications, early access, pp. 1-16, Jul. 2024.```
 
 ```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” submitted to IEEE Transactions on Wireless Communications, Jun. 2024. Available online at https://arxiv.org/abs/2406.08887```
 
