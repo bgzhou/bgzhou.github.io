@@ -196,7 +196,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 **[J8]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems,” submitted to **IEEE Transactions on Vehicular Technology**, under review, Mar. 2024. [Preprint](https://arxiv.org/abs/2404.00598)
 
-**[J7]** Fuchao He, Zheng Shi, **Binggui Zhou**, Guanghua Yang, Xiaofan Li, Xinrong Ye, and Shaodan Ma, “BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications,” accepted by **IEEE Internet of Things Journal**, Jul. 2024. **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/document/10620242)
+**[J7]** Fuchao He, Zheng Shi, **Binggui Zhou**, Guanghua Yang, Xiaofan Li, Xinrong Ye, and Shaodan Ma, “BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications,” **IEEE Internet of Things Journal**, vol. 11, no. 21, pp. 35536-35550, 1 Nov.1, 2024. **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/document/10620242)
 
 **[J6]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, Jul. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
