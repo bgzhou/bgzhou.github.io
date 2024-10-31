@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='bio'></span>
 
-Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao SAR, China, in 2021 and 2024, respectively, at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and the Department of Electrical and Computer Engineering, under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Guanghua Yang (Jinan University, FIET, SMIEEE)](https://sisse.jnu.edu.cn/2019/0606/c12456a323953/page.psp). He is currently a Postdoctoral Researcher with the Department of Electrical and Electronic Engineering, Imperial College London, London, U.K., under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
+Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao SAR, China, in 2021 and 2024, respectively, at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and the Department of Electrical and Computer Engineering, under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Guanghua Yang (Jinan University, FIET, SMIEEE)](https://sisse.jnu.edu.cn/2019/0606/c12456a323953/page.psp). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, U.K., under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
 
 Dr. Zhou's research interests include machine learning, wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations.
 
@@ -42,11 +42,9 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - 2024-02-08 **<font color=Red>Recognition</font>**: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>Natural Language Processing for Smart Healthcare</font></a> has been listed as a ***<font color=Red>Popular Article</font>*** of ***IEEE Reviews in Biomedical Engineering*** **(IF 17.6)** since Feb. 2024.
 
 # 💼 Professional Experience
-- Sep. 2024 - present, **Postdoctoral Researcher**, Department of Electrical and Electronic Engineering, **Imperial College London**
+- Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London**
 
 - Aug. 2024 - present, **Visiting Researcher**, School of Intelligent Systems Science and Engineering, **Jinan University**
-
-- Jul. 2019 - Jul. 2024, **Research Assistant**, School of Intelligent Systems Science and Engineering, **Jinan University**
 
 # 🎓 Academic Qualifications
 - Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
