@@ -23,6 +23,9 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 
 # 🔥 News
+
+- 2024-10-31 **<font color=Blue>New preprint</font>**: [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://arxiv.org/abs/2410.23919) submitted to IEEE journal for possible publication.
+
 - 2024-07-26 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10620242"><font color=Black>BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications</font></a> has been accepted by ***IEEE Internet of Things Journal***.
 
 - 2024-07-11 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10627924"><font color=Black>AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective</font></a> has been accepted by ***IEEE Vehicular Technology Magazine***.
