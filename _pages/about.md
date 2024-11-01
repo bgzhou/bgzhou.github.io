@@ -191,6 +191,8 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 <!-- [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/abstract/document/9475482) 【公式形式显示】 -->
 ### Wireless Communications
 
+**[J11]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” submitted to **IEEE Transactions on Network Science and Engineering**, under review, Oct. 2024. [Preprint](https://arxiv.org/abs/2410.23919)
+
 **[J10]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “LTAT Maximization of HARQ-IR-Assisted ISAC,” submitted to **IEEE Communications Letters**, under review, Aug. 2024.
 
 **[J9]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” submitted to **IEEE Transactions on Wireless Communications**, major revision, Jun. 2024. [Preprint](https://arxiv.org/abs/2406.08887)
