@@ -59,7 +59,8 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 # 🌏 Academic Services
 
 **Conference TPC Member**
-- IEEE Vehicular Technology Conference: VTC2024-Spring
+- IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
+- IEEE VTC2024-Spring - Track: Signal Transmission and Reception
 
 **Journal Referee**
 - IEEE Wireless Communications (WCM)
