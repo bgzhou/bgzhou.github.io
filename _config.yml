@@ -12,11 +12,11 @@ repository               : "bgzhou/bgzhou.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-50W0T8PTQV # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  txmhgK6wPr-KTO4IFt-ozncOfUfKI_fYqKuu-wLJmJg # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  69a118a725f035a3cf433148fdd0affd # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
