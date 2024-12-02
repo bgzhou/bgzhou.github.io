@@ -68,6 +68,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Wireless Communication Letters (WCL)
 - IEEE Internet of Things Journal (IOT-J)
+- Physical Communications
 - Information Processing and Management (IPM)
 - Knowledge-Based Systems (KNOSYS)
 - Journal of Cleaner Production (JCLEPRO)
@@ -79,6 +80,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - Asia-Pacific Conference on Communications (APCC)
 - IEEE/CIC International Conference on Communications in China (ICCC)
 - International Conference on Future Communications and Networks (FCN)
+- International Joint Conference on Neural Networks (IJCNN)
 - International Conference on Artificial Intelligence of Things and Systems (AIoTSys)
 
 **Involvement in Standard Contributions**
@@ -260,13 +262,19 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 [**Research Interests**](#research-interests) | [**Research Highlights**](#research-highlights) | [**Collaborators**](#collaborators)
 ## Research Interests
 
-**Machine Learning**: Deep Learning, Generative Artificial Intelligence, Graph Machine Learning
+### Methods
+**Machine Learning**: Deep Learning (DL), Graph Machine Learning (GML), Statistical Machine Learning (SML)
 
-**Wireless Communications**: Machine Learning for Signal Processing in Massive MIMO, XL-MIMO, and RIS-Aided MIMO
+**Generative Artificial Intelligence**: Autoregressive Generation; Generative Adversarial Networks (GAN); Diffusion Models
 
-**Data Mining**: Multi-Domain Corelation Mining, Forecasting
+**Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph
 
-**Smart Healthcare**: Healthcare Informatics
+### Applications
+**Wireless Communications**: Wireless Communications: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS)
+
+**Data Mining**: Multi-Domain Correlation Mining, Forecasting
+
+**Smart Healthcare**: Neural NLP Driven Health Informatics
 
 ## Research Highlights
 ### 1. Knowledge-and-Data Driven Intelligent Wireless Communications
@@ -277,7 +285,7 @@ Currently, mobile communications have evolved into 5G/B5G and we are now anticip
 
 However, massive MIMO also brings out **complicated channel characteristics** and **high overhead and computational complexity**, which are significantly challenging. It is fortunate that by learning from extensive data, some deep learning-based algorithms have been proposed to capture the complicated channel characteristics of massive MIMO channels and further improve the spectral and energy efficiencies of massive MIMO systems. Nonetheless, the high overhead and computational complexity of massive MIMO systems are not significantly reduced by existing deep learning-based algorithms. In addition, most existing deep learning-based algorithms are purely data-driven and basically rely on extensive collected data for learning the features of complicated wireless channels, leading to unaffordable data collection costs.
 
-To simultaneously improve spectral and energy efficiencies, reduce overhead and computational complexity, and circumvent extensive data collection towards intelligent wireless communications, we investigate how to realize knowledge-and-data driven intelligent wireless communications, particularly for massive MIMO systems. Both **domain knowledge**, e.g., multi-domain correlations and channel sparsity, and **data,** e.g., historical data and cross-domain data, are exploited for framework design, learning paradigm design, and computationally efficient design to achieve the aforementioned goals. Some frameworks and algorithms we proposed are listed above and the interested readers are referred to the following publications:
+To simultaneously improve spectral and energy efficiencies, reduce overhead and computational complexity, and circumvent extensive data collection towards intelligent wireless communications, we investigate how to realize knowledge-and-data driven intelligent wireless communications, particularly for massive MIMO systems. Both **domain knowledge**, e.g., multi-domain correlations and channel sparsity, and **learning data,** e.g., historical data and cross-domain data, are exploited for framework design, learning paradigm design, and computationally efficient design to achieve the aforementioned goals. Some frameworks and algorithms we proposed are listed above and the interested readers are referred to the following publications:
 
 ```[1] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay less but get more: A dual-attention-based channel estimation network for massive MIMO systems with low-density pilots,” IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 6061-6076, Jun. 2024.```
 
