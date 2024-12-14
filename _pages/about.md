@@ -65,6 +65,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 **Journal Referee**
 - IEEE Wireless Communications (WCM)
 - IEEE Transactions on Wireless Communications (TWC)
+- IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Wireless Communication Letters (WCL)
 - IEEE Internet of Things Journal (IOT-J)
@@ -204,7 +205,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 **[J7]** Fuchao He, Zheng Shi, **Binggui Zhou**, Guanghua Yang, Xiaofan Li, Xinrong Ye, and Shaodan Ma, “BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications,” **IEEE Internet of Things Journal**, vol. 11, no. 21, pp. 35536-35550, 1 Nov.1, 2024. **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/document/10620242)
 
-**[J6]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, Jul. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
+**[J6]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, vol. 19, no. 4, pp. 64-72, Dec. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
 **[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
 
@@ -263,18 +264,18 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 ## Research Interests
 
 ### Methods
-**Machine Learning**: Deep Learning (DL), Graph Machine Learning (GML), Statistical Machine Learning (SML)
+- **Machine Learning**: Deep Learning (DL), Graph Machine Learning (GML), Statistical Machine Learning (SML)
 
-**Generative Artificial Intelligence**: Autoregressive Generation; Generative Adversarial Networks (GAN); Diffusion Models
+- **Generative Artificial Intelligence**: Autoregressive Generation; Generative Adversarial Networks (GAN); Diffusion Models
 
-**Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph
+- **Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph
 
 ### Applications
-**Wireless Communications**: Wireless Communications: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS)
+- **Wireless Communications**: Wireless Communications: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS)
 
-**Data Mining**: Multi-Domain Correlation Mining, Forecasting
+- **Data Mining**: Multi-Domain Correlation Mining, Forecasting
 
-**Smart Healthcare**: Neural NLP Driven Health Informatics
+- **Smart Healthcare**: Neural NLP Driven Health Informatics
 
 ## Research Highlights
 ### 1. Knowledge-and-Data Driven Intelligent Wireless Communications
