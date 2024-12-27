@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='bio'></span>
 
-Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Guanghua Yang (Jinan University, FIET, SMIEEE)](https://sisse.jnu.edu.cn/2019/0606/c12456a323953/page.psp). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
+Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
 
-Dr. Zhou's research interests include machine learning, wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations.
-
+Dr. Zhou's research interests include machine learning and its applications in wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
 
 # 🔥 News
+- 2024-12-27 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://arxiv.org/abs/2406.08887"><font color=Black>Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
 
 - 2024-10-31 **<font color=Blue>New preprint</font>**: [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://arxiv.org/abs/2410.23919) submitted to IEEE journal for possible publication.
 
@@ -107,6 +107,20 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 (&dagger; for Equal Contribution; * for Corresponding Authorship.)
 
 ### Wireless Communications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/SFTCE.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+[Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios](https://arxiv.org/abs/2406.08887)
+
+**Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang
+ 
+[Preprint](https://arxiv.org/abs/2406.08887) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:yD5IFk8b50cC'></span></strong>
+
+- In this work, we propose a **three-domain (3D) channel extrapolation framework** across spatial, frequency, and temporal domains to reduce pilot training overhead for TDD mmWave massive MIMO systems under high mobility. The proposed method first realizes uplink channel estimation with the **knowledge-and-data driven spatial-frequency channel extrapolation network (KDD-SFCEN)** to reduce the spatial-frequency domain pilot training overhead $C_{sl}$, and then conducts accurate slot-level channel extrapolation with the **temporal uplink-downlink channel extrapolation network (TUDCEN)** to reduce the times of uplink channel estimations $\frac{T}{T_p}$, thereby systematically reducing the pilot training overhead $C_o$.
+- Numerical results demonstrate the superiority of the proposed framework in significantly **reducing the pilot training overhead by 16 times** and **improving the system's spectral efficiency under high-mobility scenarios** compared with state-of-the-art channel estimation/extrapolation methods.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/IEFSF.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -199,9 +213,9 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 **[J10]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “LTAT Maximization of HARQ-IR-Assisted ISAC,” submitted to **IEEE Communications Letters**, under review.
 
-**[J9]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” submitted to **IEEE Transactions on Wireless Communications**, major revision. [Preprint](https://arxiv.org/abs/2406.08887)
+**[J9]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems,” submitted to **IEEE Transactions on Vehicular Technology**, under review. [Preprint](https://arxiv.org/abs/2404.00598)
 
-**[J8]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems,” submitted to **IEEE Transactions on Vehicular Technology**, under review. [Preprint](https://arxiv.org/abs/2404.00598)
+**[J8]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” accepted by **IEEE Transactions on Wireless Communications**. **(JCR Q1, IF: 8.9)** [Paper](https://arxiv.org/abs/2406.08887) \| [Preprint](https://arxiv.org/abs/2406.08887)
 
 **[J7]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, vol. 19, no. 4, pp. 64-72, Dec. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
@@ -292,7 +306,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 ```[2] Binggui Zhou, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A low-overhead incorporation-extrapolation based few-shot CSI feedback framework for massive MIMO systems,” IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.```
 
-```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” submitted to IEEE Transactions on Wireless Communications, Jun. 2024. Available online at https://arxiv.org/abs/2406.08887```
+```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” IEEE Transactions on Wireless Communications, Dec. 2024.```
 
 ```[4] Xiaohong Chen, Changxing Deng, Binggui Zhou, Huan Zhang, Guanghua Yang, and Shaodan Ma, “High-accuracy CSI feedback with super-resolution network for massive MIMO systems,” IEEE Wireless Communication Letters., vol. 11, no. 1, pp. 141–145, Jan. 2022.```
 
