@@ -22,9 +22,9 @@ Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering fr
 Dr. Zhou's research interests include machine learning and its applications in wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
 
 # 🔥 News
-- 2024-12-27 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://arxiv.org/abs/2406.08887"><font color=Black>Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
+- 2024-12-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios](https://arxiv.org/abs/2406.08887) has been accepted by ***IEEE Transactions on Wireless Communications***.
 
-- 2024-10-31 **<font color=Blue>New preprint</font>**: [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://arxiv.org/abs/2410.23919) submitted to IEEE journal for possible publication.
+- 2024-10-31 **<font color=Blue>New preprint</font>**: One paper titled [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://arxiv.org/abs/2410.23919) has been submitted to IEEE journal for possible publication.
 
 - 2024-07-26 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10620242"><font color=Black>BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications</font></a> has been accepted by ***IEEE Internet of Things Journal***.
 
@@ -58,7 +58,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 # 🌏 Academic Services
 
-**Conference TPC Member**
+<!-- **Conference TPC Member**
 - IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
 - IEEE VTC2024-Spring - Track: Signal Transmission and Reception
 
@@ -82,7 +82,30 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - IEEE/CIC International Conference on Communications in China (ICCC)
 - International Conference on Future Communications and Networks (FCN)
 - International Joint Conference on Neural Networks (IJCNN)
-- International Conference on Artificial Intelligence of Things and Systems (AIoTSys)
+- International Conference on Artificial Intelligence of Things and Systems (AIoTSys) -->
+
+**Conference TPC Member**
+- IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
+- IEEE VTC2024-Spring - Track: Signal Transmission and Reception
+
+**Journal Referee**
+- IEEE Wireless Communications (WCM)
+- IEEE Transactions on Wireless Communications (TWC)
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Cognitive Communications and Networking (TCCN)
+- IEEE Internet of Things Journal (IOT-J)
+- IEEE Wireless Communication Letters (WCL)
+- Knowledge-Based Systems (KNOSYS)
+- Information Processing and Management (IPM)
+- Journal of Cleaner Production (JCLEPRO)
+
+**Conference Reviewer**
+- IEEE International Conference on Communications (ICC)
+- IEEE Global Communications Conference (GLOBECOM)
+- IEEE Vehicular Technology Conference (VTC)
+- Asia-Pacific Conference on Communications (APCC)
+- IEEE/CIC International Conference on Communications in China (ICCC)
+- International Joint Conference on Neural Networks (IJCNN)
 
 **Involvement in Standard Contributions**
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
@@ -223,7 +246,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
 
-**[J4]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
+**[J4]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
 
 **[J3]** Xi Yang\*, Fuqiang Zhu, **Binggui Zhou**\*, Ting Liu, and Shaodan Ma, “Gridless Hybrid-Field Channel Estimation for Extra-Large Aperture Array Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 13, no. 2, pp. 496-500, Feb. 2024. **(JCR Q1, IF: 6.3)** [Paper](https://ieeexplore.ieee.org/document/10319723)
 
@@ -294,7 +317,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 ## Research Highlights
 ### 1. Knowledge-and-Data Driven Intelligent Wireless Communications
 
-<img src='images/Knowledge-and-Data_Driven_Intelligent_Wireless_Communications.png' width = "1200" alt="" align=center />
+<img src='images/KDD_CSI.png' width = "1200" alt="" align=center />
 
 Currently, mobile communications have evolved into 5G/B5G and we are now anticipating what 6G will be like. According to [1], the usage scenarios of IMT-2030 (6G) include immersive communication, hyper reliable and low-latency communication, massive communication, ubiquitous connectivity, integrated sensing and communication, etc. These usage scenarios raise **high data rate requirements**, **hyper reliability requirements**, and **massive connection requirements** to current wireless communication systems. To meet these requirements, extreme/massive MIMO has been recognized as an essential technology to provide spatial degrees of freedom, diversity or multiplexing gain, and array gain, thereby improving the spectral and energy efficiencies of wireless communication systems.
 
@@ -308,7 +331,6 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 ```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” IEEE Transactions on Wireless Communications, Dec. 2024.```
 
-```[4] Xiaohong Chen, Changxing Deng, Binggui Zhou, Huan Zhang, Guanghua Yang, and Shaodan Ma, “High-accuracy CSI feedback with super-resolution network for massive MIMO systems,” IEEE Wireless Communication Letters., vol. 11, no. 1, pp. 141–145, Jan. 2022.```
 
 ### 2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems
 
