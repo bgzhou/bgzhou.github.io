@@ -35,6 +35,8 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - 2024-07-11 **<font color=Red>Recognition</font>**: Our paper titled [Natural Language Processing for Smart Healthcare](https://ieeexplore.ieee.org/abstract/document/9904944) has been listed as an 🏆 ***<font color=Red>ESI Highly Cited Paper</font>***.
 
 - 2024-07-10 Successfully defended my PhD thesis! And I will joint the Department of Electrical and Electronic Engineering, Imperial College London, as a Postdoctoral Research Associate this Fall.
+
+
 <!-- 
 - 2024-06-19 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10600118"><font color=Black>A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
 
@@ -238,9 +240,9 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems,” submitted to **IEEE Transactions on Vehicular Technology**, under review. [Preprint](https://arxiv.org/abs/2404.00598)
 
-**[J9]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “Throughput Maximization of HARQ-IR for ISAC,” accepted by **IEEE Communications Letters**. **(JCR Q2, IF: 3.7)** [Paper](https://arxiv.org/abs/2406.08887)
+**[J9]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “Throughput Maximization of HARQ-IR for ISAC,” accepted by **IEEE Communications Letters**, Jan. 2025. **(JCR Q2, IF: 3.7)** [Paper](https://arxiv.org/abs/2406.08887)
 
-**[J8]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” accepted by **IEEE Transactions on Wireless Communications**. **(JCR Q1, IF: 8.9)** [Paper](https://arxiv.org/abs/2406.08887) \| [Preprint](https://arxiv.org/abs/2406.08887)
+**[J8]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” accepted by **IEEE Transactions on Wireless Communications**, Dec. 2024. **(JCR Q1, IF: 8.9)** [Paper](https://arxiv.org/abs/2406.08887) \| [Preprint](https://arxiv.org/abs/2406.08887)
 
 **[J7]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, vol. 19, no. 4, pp. 64-72, Dec. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
