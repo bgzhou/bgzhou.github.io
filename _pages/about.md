@@ -22,7 +22,7 @@ Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering fr
 Dr. Zhou's research interests include machine learning and its applications in wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
 
 # 🔥 News
-- 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://arxiv.org/abs/2406.08887) has been accepted by ***IEEE Communications Letters***.
+- 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
 
 - 2024-12-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios](https://arxiv.org/abs/2406.08887) has been accepted by ***IEEE Transactions on Wireless Communications***.
 
@@ -240,11 +240,11 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems,” submitted to **IEEE Transactions on Vehicular Technology**, under review. [Preprint](https://arxiv.org/abs/2404.00598)
 
-**[J9]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “Throughput Maximization of HARQ-IR for ISAC,” accepted by **IEEE Communications Letters**, Jan. 2025. **(JCR Q2, IF: 3.7)** [Paper](https://arxiv.org/abs/2406.08887)
+**[J9]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “Throughput Maximization of HARQ-IR for ISAC,” accepted by **IEEE Communications Letters**, Jan. 2025. **(JCR Q2, IF: 3.7)** [Paper](https://ieeexplore.ieee.org/document/10833859)
 
 **[J8]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” accepted by **IEEE Transactions on Wireless Communications**, Dec. 2024. **(JCR Q1, IF: 8.9)** [Paper](https://arxiv.org/abs/2406.08887) \| [Preprint](https://arxiv.org/abs/2406.08887)
 
-**[J7]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, vol. 19, no. 4, pp. 64-72, Dec. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
+**[J7]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” **IEEE Vehicular Technology Magazine**, vol. 19, no. 4, pp. 64-72, Dec. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
 **[J6]** Fuchao He, Zheng Shi, **Binggui Zhou**, Guanghua Yang, Xiaofan Li, Xinrong Ye, and Shaodan Ma, “BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications,” **IEEE Internet of Things Journal**, vol. 11, no. 21, pp. 35536-35550, 1 Nov.1, 2024. **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/document/10620242)
 
@@ -333,7 +333,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 ```[2] Binggui Zhou, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A low-overhead incorporation-extrapolation based few-shot CSI feedback framework for massive MIMO systems,” IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.```
 
-```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” IEEE Transactions on Wireless Communications, Dec. 2024.```
+```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” accepted by IEEE Transactions on Wireless Communications, Dec. 2024.```
 
 
 ### 2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems
