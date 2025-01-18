@@ -62,6 +62,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 # 🌏 Academic Services
 
+<!-- Old List -->
 <!-- **Conference TPC Member**
 - IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
 - IEEE VTC2024-Spring - Track: Signal Transmission and Reception
@@ -97,8 +98,9 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
-- IEEE Internet of Things Journal (IOT-J)
+- IEEE Internet of Things Journal (IoT-J)
 - IEEE Wireless Communication Letters (WCL)
+- IEEE Internet of Things Magazine (IoTM)
 - Knowledge-Based Systems (KNOSYS)
 - Information Processing and Management (IPM)
 - Journal of Cleaner Production (JCLEPRO)
