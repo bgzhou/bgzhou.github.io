@@ -19,7 +19,7 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
 
-Dr. Zhou's research interests include machine learning and its applications in wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
+Dr. Zhou's research interests include machine learning and data mining as well as their applications in wireless communications, forecasting, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
 
 # 🔥 News
 - 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
@@ -90,7 +90,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - International Conference on Artificial Intelligence of Things and Systems (AIoTSys) -->
 
 
-### <font color=blue>Wireless Communications</font>
+### <font color=#728FCE>Wireless Communications</font>
 
 **Conference TPC Member**
 - IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
@@ -115,7 +115,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 **Involvement in Standard Contributions**
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
 
-### <font color=blue>Machine Learning and Data Science</font>
+### <font color=#728FCE>Machine Learning and Data Mining</font>
 
 **Journal Referee**
 - Knowledge-Based Systems (KNOSYS)
@@ -126,7 +126,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - International Conference on Learning Representations (ICLR) Workshops
 - International Joint Conference on Neural Networks (IJCNN)
 
-### <font color=blue>Smart Healthcare</font>
+### <font color=#728FCE>Smart Healthcare</font>
 **Journal Referee**
 - Computers in Biology and Medicine (CIBM)
 - Computer Methods in Biomechanics and Biomedical Engineering (GCMB)
@@ -149,11 +149,11 @@ Dr. Zhou's research interests include machine learning and its applications in w
 # 📝 Publications
 
 [**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
-## Representative Publications (by Topic)
+## <font color=MediumAquaMarine>Representative Publications (by Topic)</font>
 
 (&dagger; for Equal Contribution; * for Corresponding Authorship.)
 
-### Wireless Communications
+### <font color=#728FCE>Wireless Communications</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/SFTCE.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -162,7 +162,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang
  
-[Preprint](https://arxiv.org/abs/2406.08887) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:yD5IFk8b50cC'></span></strong>
+[Preprint](https://arxiv.org/abs/2406.08887) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:tOudhMTPpwUC'></span></strong>
 
 - In this work, we propose a **three-domain (3D) channel extrapolation framework** across spatial, frequency, and temporal domains to reduce pilot training overhead for TDD mmWave massive MIMO systems under high mobility. The proposed method first realizes uplink channel estimation with the **knowledge-and-data driven spatial-frequency channel extrapolation network (KDD-SFCEN)** to reduce the spatial-frequency domain pilot training overhead $C_{sl}$, and then conducts accurate slot-level channel extrapolation with the **temporal uplink-downlink channel extrapolation network (TUDCEN)** to reduce the times of uplink channel estimations $\frac{T}{T_p}$, thereby systematically reducing the pilot training overhead $C_o$.
 - Numerical results demonstrate the superiority of the proposed framework in significantly **reducing the pilot training overhead by 16 times** and **improving the system's spectral efficiency under high-mobility scenarios** compared with state-of-the-art channel estimation/extrapolation methods.
@@ -176,7 +176,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang
  
-[Preprint](https://arxiv.org/abs/2312.04062) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:3s1wT3WcHBgC'></span></strong>
+[Preprint](https://arxiv.org/abs/2312.04062) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:nb7KW1ujOQ8C'></span></strong>
 
 - In this work, we propose the **Incorporation-Extrapolation based Few-Shot CSI feedback Framework (IEFSF)** for massive MIMO systems to enable low-overhead CSI feedback with reduced data collection cost. An incorporation-extrapolation scheme for eigenvector-based CSI feedback is proposed to reduce the feedback overhead. Then, to alleviate the necessity of extensive collected samples and enable few-shot CSI feedback, we further propose a **knowledge-driven data augmentation (KDDA) method** and an **artificial intelligence-generated content (AIGC) -based data augmentation method** by exploiting the domain knowledge of wireless channels and by exploiting a novel generative model, respectively.
 - Experimental results based on the DeepMIMO dataset demonstrate that the proposed IEFSF significantly reduces CSI feedback overhead by **64 times** compared with existing methods while maintaining higher feedback accuracy using **only several hundred collected samples**.
@@ -190,14 +190,14 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang
  
-[Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:D03iK_w7-QYC'></span></strong>
+[Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:UxriW0iASnsC'></span></strong>
 
 - In this work, we propose the **dual-attention-based channel estimation network (DACEN)** to realize accurate channel estimation via low-density pilots, by jointly learning the spatial-temporal domain features of massive MIMO channels with the temporal attention module and the spatial attention module. To further improve the estimation accuracy, we propose a **parameter-instance transfer learning approach** to transfer the channel knowledge learned from the high-density pilots pre-acquired during the training dataset collection period.
 - Experimental results reveal that the proposed DACEN-based method can reduce up to **92% of pilot overhead** by reducing the pilot density **from 26/52 to 2/52** than traditional channel estimation methods. Additionally, with the proposed parameter-instance transfer learning approach, the DACEN-based method achieves **additional performance gain**, thereby further demonstrating the effectiveness and superiority of the proposed method.
 </div>
 </div>
 
-### Data Mining
+### <font color=#728FCE>Machine Learning and Data Mining</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KNOSYS</div><img src='images/HSTGANet.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -206,7 +206,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma
  
-<strong><span class='show_paper_citations' data='2RwBacMAAAAJ:TFP_iSt0sucC'></span></strong>
+<strong><span class='show_paper_citations' data='2RwBacMAAAAJ:p2g8aNsByqUC'></span></strong>
 
 - In this paper, we propose a graph-attention based spatial–temporal learning framework for tourism demand forecasting. A **weight-dynamic multi-dimensional graph** is organized to embed multiple explicit dynamic spatial connections and provide a node attribute sequence for learning implicit dynamic spatial connections. We further propose a **heterogeneous spatial–temporal graph-attention network (HSTGANet)**, which is effective in handling both explicit and implicit dynamic spatial connections, learning high-dimensional spatial–temporal features, and forecasting tourism demand.
 - Experimental results demonstrate the **effectiveness of the proposed model** over baseline models in forecasting the tourism demand for six regions of Wanshan Archipelago in Zhuhai, China, and indicate that the proposed spatial–temporal learning framework may provide **useful insights for developing more effective models** for other spatial–temporal forecasting problems.
@@ -220,7 +220,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma
  
-<strong><span class='show_paper_citations' data='2RwBacMAAAAJ:TQgYirikUcIC'></span></strong>
+<strong><span class='show_paper_citations' data='2RwBacMAAAAJ:OU6Ihb5iCvQC'></span></strong>
 
 - In this work, we propose the **Interpretable Temporal Attention Network (ITANet)** for COVID-19 forecasting and inferring the importance of government interventions. The proposed model is with an encoder–decoder architecture and employs long short-term memory (LSTM) for temporal feature extraction and multi-head attention for long-term dependency caption. The model simultaneously takes historical information, a priori known future information, and pseudo future information into consideration, where the pseudo future information is learned with the **covariate forecasting network (CFN)** and **multi-task learning (MTL)**. In addition, we also propose the **degraded teacher forcing (DTF) method** to train the model efficiently. 
 - Compared with other models, the ITANet is more effective in the forecasting of COVID-19 new confirmed cases.
@@ -228,7 +228,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 </div>
 </div>
 
-### Smart Healthcare
+### <font color=#728FCE>Smart Healthcare</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE RBME</div><img src='images/FeaturedArticlePromotion.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -239,7 +239,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE RBME
  
-[Preprint](https://arxiv.org/abs/2110.15803) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong>
+[Preprint](https://arxiv.org/abs/2110.15803) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:K3LRdlH-MEoC'></span></strong>
 
 - In this work, we review existing studies that concern NLP for smart healthcare from the perspectives of technique and application.
 - We first elaborate on different **NLP approaches** and the **NLP pipeline for smart healthcare** from the technical point of view. Then, in the context of smart healthcare applications employing NLP techniques, we introduce several **representative smart healthcare scenarios**. We further discuss two **specific medical issues**, i.e., the coronavirus disease 2019 (COVID-19) pandemic and mental health, in which NLP-driven smart healthcare plays an important role. Finally, we discuss the **limitations** of current works and identify the **directions for future works**.
@@ -249,12 +249,13 @@ Dr. Zhou's research interests include machine learning and its applications in w
 </div>
 </div>
 
-## List of Publications (by Topic)
+## <font color=MediumAquaMarine>List of Publications (by Topic)</font>
 
 (&dagger; for Equal Contribution; * for Corresponding Authorship; **J** for Journal Publications; **C** for Conference Publications; **P** for Patent Grants/Applications.)
 
 <!-- [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/abstract/document/9475482) 【公式形式显示】 -->
-### Wireless Communications
+
+### <font color=#728FCE>Wireless Communications</font>
 
 **[J11]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” submitted to **IEEE Transactions on Network Science and Engineering**, under review. [Preprint](https://arxiv.org/abs/2410.23919)
 
@@ -288,7 +289,7 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **[P1]** Shaodan Ma, Changxing Deng, Xiaohong Chen, Huan Zhang, and **Binggui Zhou**. “Compression Methods, Reconstruction Methods, Devices, and Computer Equipments for Channel State Information,” **Chinese Patent Grant**, CN113938952B, Oct. 2023.
 
-### Data Mining
+### <font color=#728FCE>Machine Learning and Data Mining</font>
 
 <!-- **[J5]** Yunxuan Dong, **Binggui Zhou**, and Guanghua Yang, “Dynamic Spatial-temporal Wind Power Forecasting with a Novel Attention Mechanism,” submitted to **IEEE Internet of Things Journal**. -->
 
@@ -309,11 +310,11 @@ Dr. Zhou's research interests include machine learning and its applications in w
 
 **[P1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, Suxiu Xu, Zheng Hu, and Haitao Jiang. “A Spatial-temporal Tourism Demand Forecasting Method Based on Graph Convolution and Attention Mechanism,” **Chinese Patent Application**, Aug. 2022.
 
-### Smart Healthcare
+### <font color=#728FCE>Smart Healthcare</font>
 
 **[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.6, ESI Hot Paper, ESI Highly Cited Paper, and Popular Article & Featured Article of IEEE Reviews in Biomedical Engineering)** [Paper](https://ieeexplore.ieee.org/abstract/document/9904944) \| [Preprint](https://arxiv.org/abs/2110.15803)
 
-### Miscellaneous
+### <font color=#728FCE>Miscellaneous</font>
 
 **[J1]** **Binggui Zhou**, Qingkai Liu, and Ju Qiu. “Indoor IoT Security System Based on Raspberry Pi and WeChat,” **Transducer and Microsystem Technologies**, vol. 36, no. 11, pp. 109-111+122, Nov. 2017. **(Chinese Science Citation Database (CSCD))**
 
@@ -322,24 +323,29 @@ Dr. Zhou's research interests include machine learning and its applications in w
 # 🔎 Research
 
 [**Research Interests**](#research-interests) | [**Research Highlights**](#research-highlights) | [**Collaborators**](#collaborators)
-## Research Interests
+## <font color=MediumAquaMarine>Research Interests</font>
 
-### Methods
-- **Machine Learning**: Deep Learning (DL), Graph Machine Learning (GML), Statistical Machine Learning (SML)
+### <font color=#728FCE>Methods</font>
+- **Machine Learning**: Deep Learning, Graph Machine Learning, Generative Artificial Intelligence
 
-- **Generative Artificial Intelligence**: Autoregressive Generation; Generative Adversarial Networks (GAN); Diffusion Models
+<!-- - , Statistical Machine Learning (SML) -->
+<!-- Multi-Domain Correlation Mining,  -->
+<!-- - **Generative Artificial Intelligence**: Autoregressive Generation; Generative Adversarial Networks (GAN); Diffusion Models -->
+
+- **Data Mining**: Statistical Analysis, Clustering, Dimensionality Reduction
 
 - **Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph
 
-### Applications
-- **Wireless Communications**: Wireless Communications: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS)
+### <font color=#728FCE>Applications</font>
+- **Wireless Communications and Sensing**: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS); Integrated Sensing and Communications
 
-- **Data Mining**: Multi-Domain Correlation Mining, Forecasting
+- **Forecasting**: (Tourism) Demand Forecasting, Spatial-Temporal Forecasting
 
 - **Smart Healthcare**: Neural NLP Driven Health Informatics
 
-## Research Highlights
-### 1. Knowledge-and-Data Driven Driven CSI Estimation and Feedback
+## <font color=MediumAquaMarine>Research Highlights</font>
+
+### <font color=#728FCE>1. Knowledge-and-Data Driven Driven CSI Estimation and Feedback</font>
 
 <img src='images/KDD_CSI.png' width = "1200" alt="" align=center />
 
@@ -356,19 +362,19 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 ```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” accepted by IEEE Transactions on Wireless Communications, Dec. 2024.```
 
 
-### 2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems
+### <font color=#728FCE>2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems</font>
 
 Vision-aided multi-user sensing and communications prototyping system:
 
 <img src='images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
 
-Details of the prototyping system can be found in our [lab pages](https://www.fst.um.edu.mo/personal/shaodanma/research/) and the following publications.
+Details of the prototyping system can be found in our [Lab Pages](https://www.fst.um.edu.mo/personal/shaodanma/research/) and the following publications.
 
 ```[1] Kehui Li, Binggui Zhou, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring, pp. 1-6, 2024.```
 
-### 3. Verification of Machine Learning Empowered Wireless Communications
+### <font color=#728FCE>3. Verification of Machine Learning Empowered Wireless Communications</font>
 
-(1) Check out <a href="https://mp.weixin.qq.com/s/iZAZn3NxvLZKTBuukFsbsQ"><font color=Blue>Our Solution</font></a> to the **First 6G AI Competition** held by the Guangdong OPPO Mobile Communications Corp., Ltd, which won the **Second Prize** and ranked **2/727 teams**.
+(1) Check out [Our Solution](https://mp.weixin.qq.com/s/iZAZn3NxvLZKTBuukFsbsQ) to the **First 6G AI Competition** held by the Guangdong OPPO Mobile Communications Corp., Ltd, which won the **Second Prize** and ranked **2/727 teams**.
 
 Channel modeling is an important area of 6G pre-research. To cope with the increasingly complex wireless communication environment and make full use of data-driven/knowledge-and-data driven algorithms for complex channel modeling, we propose a generative adversarial network (GAN) for channel modeling and constructing an extensive wireless channel dataset of high-quality samples using a small number of real channel samples. The proposed GAN is based on the multi-head self-attention mechanism and convolution operations. We decouple the channel generation problem into two parts: valid (meaningful) delayed **path position generation** and valid (meaningful) delayed **path generation**. Therefore, the generator contains two sub-networks. The path generation sub-network mainly exploits Transformer layers as the backbone, while the backbone of the path position generation sub-network is with a two-layer multi-layer perceptron structure. The discriminator exploits multiple convolutional downsampling modules to distinguish between generated samples and real samples.
 
