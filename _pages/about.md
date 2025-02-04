@@ -89,6 +89,9 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - International Joint Conference on Neural Networks (IJCNN)
 - International Conference on Artificial Intelligence of Things and Systems (AIoTSys) -->
 
+
+### <font color=blue>Wireless Communications</font>
+
 **Conference TPC Member**
 - IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
 - IEEE VTC2024-Spring - Track: Signal Transmission and Reception
@@ -101,9 +104,6 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - IEEE Internet of Things Journal (IoT-J)
 - IEEE Wireless Communication Letters (WCL)
 - IEEE Internet of Things Magazine (IoTM)
-- Knowledge-Based Systems (KNOSYS)
-- Information Processing and Management (IPM)
-- Journal of Cleaner Production (JCLEPRO)
 
 **Conference Reviewer**
 - IEEE International Conference on Communications (ICC)
@@ -111,10 +111,28 @@ Dr. Zhou's research interests include machine learning and its applications in w
 - IEEE Vehicular Technology Conference (VTC)
 - Asia-Pacific Conference on Communications (APCC)
 - IEEE/CIC International Conference on Communications in China (ICCC)
-- International Joint Conference on Neural Networks (IJCNN)
 
 **Involvement in Standard Contributions**
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
+
+### <font color=blue>Machine Learning and Data Science</font>
+
+**Journal Referee**
+- Knowledge-Based Systems (KNOSYS)
+- Information Processing and Management (IPM)
+- Journal of Cleaner Production (JCLEPRO)
+
+**Conference Reviewer**
+- International Conference on Learning Representations (ICLR) Workshops
+- International Joint Conference on Neural Networks (IJCNN)
+
+### <font color=blue>Smart Healthcare</font>
+**Journal Referee**
+- Computers in Biology and Medicine (CIBM)
+- Computer Methods in Biomechanics and Biomedical Engineering (GCMB)
+   
+<!-- **Conference Reviewer**
+- IEEE International Conference on Communications (ICC) -->
 
 # 🏆 Recognition and Awards
 - May 2023, Winning Prize of the First 6G Intelligent Wireless Communication System Competition (Ranking 9/1252), as the Captain
