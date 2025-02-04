@@ -90,7 +90,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 - International Conference on Artificial Intelligence of Things and Systems (AIoTSys) -->
 
 
-### <font color=LightPurpleBlue>Wireless Communications</font>
+### <font color=CornflowerBlue>Wireless Communications</font>
 
 **Conference TPC Member**
 - IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
@@ -115,7 +115,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 **Involvement in Standard Contributions**
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
 
-### <font color=LightPurpleBlue>Machine Learning and Data Mining</font>
+### <font color=CornflowerBlue>Machine Learning and Data Mining</font>
 
 **Journal Referee**
 - Knowledge-Based Systems (KNOSYS)
@@ -126,7 +126,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 - International Conference on Learning Representations (ICLR) Workshops
 - International Joint Conference on Neural Networks (IJCNN)
 
-### <font color=LightPurpleBlue>Smart Healthcare</font>
+### <font color=CornflowerBlue>Smart Healthcare</font>
 **Journal Referee**
 - Computers in Biology and Medicine (CIBM)
 - Computer Methods in Biomechanics and Biomedical Engineering (GCMB)
@@ -153,7 +153,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 
 (&dagger; for Equal Contribution; * for Corresponding Authorship.)
 
-### <font color=LightPurpleBlue>Wireless Communications</font>
+### <font color=CornflowerBlue>Wireless Communications</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/SFTCE.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -197,7 +197,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 </div>
 </div>
 
-### <font color=LightPurpleBlue>Machine Learning and Data Mining</font>
+### <font color=CornflowerBlue>Machine Learning and Data Mining</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KNOSYS</div><img src='images/HSTGANet.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -228,7 +228,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 </div>
 </div>
 
-### <font color=LightPurpleBlue>Smart Healthcare</font>
+### <font color=CornflowerBlue>Smart Healthcare</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE RBME</div><img src='images/FeaturedArticlePromotion.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -255,7 +255,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 
 <!-- [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/abstract/document/9475482) 【公式形式显示】 -->
 
-### <font color=LightPurpleBlue>Wireless Communications</font>
+### <font color=CornflowerBlue>Wireless Communications</font>
 
 **[J11]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” submitted to **IEEE Transactions on Network Science and Engineering**, under review. [Preprint](https://arxiv.org/abs/2410.23919)
 
@@ -289,7 +289,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 
 **[P1]** Shaodan Ma, Changxing Deng, Xiaohong Chen, Huan Zhang, and **Binggui Zhou**. “Compression Methods, Reconstruction Methods, Devices, and Computer Equipments for Channel State Information,” **Chinese Patent Grant**, CN113938952B, Oct. 2023.
 
-### <font color=LightPurpleBlue>Machine Learning and Data Mining</font>
+### <font color=CornflowerBlue>Machine Learning and Data Mining</font>
 
 <!-- **[J5]** Yunxuan Dong, **Binggui Zhou**, and Guanghua Yang, “Dynamic Spatial-temporal Wind Power Forecasting with a Novel Attention Mechanism,” submitted to **IEEE Internet of Things Journal**. -->
 
@@ -310,11 +310,11 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 
 **[P1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, Suxiu Xu, Zheng Hu, and Haitao Jiang. “A Spatial-temporal Tourism Demand Forecasting Method Based on Graph Convolution and Attention Mechanism,” **Chinese Patent Application**, Aug. 2022.
 
-### <font color=LightPurpleBlue>Smart Healthcare</font>
+### <font color=CornflowerBlue>Smart Healthcare</font>
 
 **[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.6, ESI Hot Paper, ESI Highly Cited Paper, and Popular Article & Featured Article of IEEE Reviews in Biomedical Engineering)** [Paper](https://ieeexplore.ieee.org/abstract/document/9904944) \| [Preprint](https://arxiv.org/abs/2110.15803)
 
-### <font color=LightPurpleBlue>Miscellaneous</font>
+### <font color=CornflowerBlue>Miscellaneous</font>
 
 **[J1]** **Binggui Zhou**, Qingkai Liu, and Ju Qiu. “Indoor IoT Security System Based on Raspberry Pi and WeChat,” **Transducer and Microsystem Technologies**, vol. 36, no. 11, pp. 109-111+122, Nov. 2017. **(Chinese Science Citation Database (CSCD))**
 
@@ -325,7 +325,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 [**Research Interests**](#research-interests) | [**Research Highlights**](#research-highlights) | [**Collaborators**](#collaborators)
 ## <font color=MediumAquaMarine>Research Interests</font>
 
-### <font color=LightPurpleBlue>Methods</font>
+### <font color=CornflowerBlue>Methods</font>
 - **Machine Learning**: Deep Learning, Graph Machine Learning, Generative Artificial Intelligence
 
 <!-- - , Statistical Machine Learning (SML) -->
@@ -336,8 +336,8 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 
 - **Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph
 
-### <font color=LightPurpleBlue>Applications</font>
-- **Wireless Communications and Sensing**: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS); Integrated Sensing and Communications
+### <font color=CornflowerBlue>Applications</font>
+- **Wireless Communications**: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS); Integrated Sensing and Communications
 
 - **Forecasting**: (Tourism) Demand Forecasting, Spatial-Temporal Forecasting
 
@@ -345,7 +345,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 
 ## <font color=MediumAquaMarine>Research Highlights</font>
 
-### <font color=LightPurpleBlue>1. Knowledge-and-Data Driven Driven CSI Estimation and Feedback</font>
+### <font color=CornflowerBlue>1. Knowledge-and-Data Driven Driven CSI Acquisition</font>
 
 <img src='images/KDD_CSI.png' width = "1200" alt="" align=center />
 
@@ -362,7 +362,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 ```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios” accepted by IEEE Transactions on Wireless Communications, Dec. 2024.```
 
 
-### <font color=LightPurpleBlue>2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems</font>
+### <font color=CornflowerBlue>2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems</font>
 
 Vision-aided multi-user sensing and communications prototyping system:
 
@@ -372,7 +372,7 @@ Details of the prototyping system can be found in our [Lab Pages](https://www.fs
 
 ```[1] Kehui Li, Binggui Zhou, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring, pp. 1-6, 2024.```
 
-### <font color=LightPurpleBlue>3. Verification of Machine Learning Empowered Wireless Communications</font>
+### <font color=CornflowerBlue>3. Verification of Machine Learning Empowered Wireless Communications</font>
 
 (1) Check out [Our Solution](https://mp.weixin.qq.com/s/iZAZn3NxvLZKTBuukFsbsQ) to the **First 6G AI Competition** held by the Guangdong OPPO Mobile Communications Corp., Ltd, which won the **Second Prize** and ranked **2/727 teams**.
 
