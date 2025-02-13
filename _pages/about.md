@@ -19,7 +19,7 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
 
-Dr. Zhou's research interests include machine learning and data mining as well as their applications in wireless communications, forecasting, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
 
 # 🔥 News
 - 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
@@ -115,7 +115,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 **Involvement in Standard Contributions**
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
 
-### <font color=CornflowerBlue>Machine Learning and Data Mining</font>
+### <font color=CornflowerBlue>Machine Learning and Data Science</font>
 
 **Journal Referee**
 - Knowledge-Based Systems (KNOSYS)
@@ -131,8 +131,8 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 - Computers in Biology and Medicine (CIBM)
 - Computer Methods in Biomechanics and Biomedical Engineering (GCMB)
    
-<!-- **Conference Reviewer**
-- IEEE International Conference on Communications (ICC) -->
+**Conference Reviewer**
+- International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
 # 🏆 Recognition and Awards
 - May 2023, Winning Prize of the First 6G Intelligent Wireless Communication System Competition (Ranking 9/1252), as the Captain
@@ -197,7 +197,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 </div>
 </div>
 
-### <font color=CornflowerBlue>Machine Learning and Data Mining</font>
+### <font color=CornflowerBlue>Machine Learning and Data Science</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KNOSYS</div><img src='images/HSTGANet.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
@@ -289,7 +289,7 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 
 **[P1]** Shaodan Ma, Changxing Deng, Xiaohong Chen, Huan Zhang, and **Binggui Zhou**. “Compression Methods, Reconstruction Methods, Devices, and Computer Equipments for Channel State Information,” **Chinese Patent Grant**, CN113938952B, Oct. 2023.
 
-### <font color=CornflowerBlue>Machine Learning and Data Mining</font>
+### <font color=CornflowerBlue>Machine Learning and Data Science</font>
 
 <!-- **[J5]** Yunxuan Dong, **Binggui Zhou**, and Guanghua Yang, “Dynamic Spatial-temporal Wind Power Forecasting with a Novel Attention Mechanism,” submitted to **IEEE Internet of Things Journal**. -->
 
@@ -332,16 +332,16 @@ Dr. Zhou's research interests include machine learning and data mining as well a
 <!-- Multi-Domain Correlation Mining,  -->
 <!-- - **Generative Artificial Intelligence**: Autoregressive Generation; Generative Adversarial Networks (GAN); Diffusion Models -->
 
-- **Data Mining**: Statistical Analysis, Clustering, Dimensionality Reduction
+- **Data Science**: Statistical Analysis, Data Efficiency, Correlation Mining
 
 - **Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph
 
 ### <font color=CornflowerBlue>Applications</font>
 - **Wireless Communications**: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS); Integrated Sensing and Communications
 
-- **Forecasting**: (Tourism) Demand Forecasting, Spatial-Temporal Forecasting
+- **Data Mining**: Spatial-Temporal Forecasting, Energy Disaggregation
 
-- **Smart Healthcare**: Neural NLP Driven Health Informatics
+- **Smart Healthcare**: Health Informatics
 
 ## <font color=MediumAquaMarine>Research Highlights</font>
 
@@ -390,7 +390,7 @@ The dual-attention-based CSI feedback model (left) and the quantization ensemble
 
 
 
-<!-- ### 3. Machine Learning for Data Mining
+<!-- ### 3. Machine Learning and Data Science
 
 ### 4. Smart Healthcare -->
 
@@ -398,6 +398,6 @@ The dual-attention-based CSI feedback model (left) and the quantization ensemble
 
 ## Collaborators
 
-I collaborate closely with [Prof. Feifei Gao (Professor, Tsinghua University)](https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en), [Prof. Xi Yang (Professor, East China Normal University)](https://faculty.ecnu.edu.cn/_s15/yx2/main.psp), [Prof. Zheng Shi, (Associate Professor, Jinan University)](https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en), [Prof. Qing Xue, (Assistant Professor, Chongqing University of Posts and Telecommunications)](https://www.researchgate.net/profile/Qing-Xue-5), and [Dr. Jintao Wang, (University of Macau)](https://jintaoww.github.io/) on machine learning empowered wireless communications, and with [Prof. Yunxuan Dong (Assistant Professor, Guangxi University)](https://scholar.google.com/citations?user=dYcYJfUAAAAJ&hl=en&authuser=1) on data mining.
+I collaborate closely with [Prof. Feifei Gao (Professor, Tsinghua University)](https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en), [Prof. Xi Yang (Professor, East China Normal University)](https://faculty.ecnu.edu.cn/_s15/yx2/main.psp), [Prof. Zheng Shi, (Associate Professor, Jinan University)](https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en), [Prof. Qing Xue, (Assistant Professor, Chongqing University of Posts and Telecommunications)](https://www.researchgate.net/profile/Qing-Xue-5), and [Dr. Jintao Wang, (University of Macau)](https://jintaoww.github.io/) on wireless communications, and with [Prof. Yunxuan Dong (Assistant Professor, Guangxi University)](https://scholar.google.com/citations?user=dYcYJfUAAAAJ&hl=en&authuser=1) on data mining.
 
 Feel free to [drop me an email](mailto:binggui.zhou@imperial.ac.uk) if you would like to collaborate with me.
