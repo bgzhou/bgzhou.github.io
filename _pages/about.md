@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='bio'></span>
 
-Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
+Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications, data mining, and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations. Dr. Zhou currently/previously serves as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers at top journals and flagship international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE Wireless Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Mobile Computing).
 
 # 🔥 News
 - 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
@@ -51,8 +51,6 @@ Dr. Zhou's research interests include machine learning and data science as well 
 # 💼 Professional Experience
 - Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London**
 
-- Aug. 2024 - present, **Visiting Researcher**, School of Intelligent Systems Science and Engineering, **Jinan University**
-
 # 🎓 Academic Qualifications
 - Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
 
@@ -61,34 +59,6 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - Sep. 2014 - Jun. 2018, **Bachelor of Engineering in Electrical Engineering**, School of Electrical and Information Engineering, **Jinan University**
 
 # 🌏 Academic Services
-
-<!-- Old List -->
-<!-- **Conference TPC Member**
-- IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
-- IEEE VTC2024-Spring - Track: Signal Transmission and Reception
-
-**Journal Referee**
-- IEEE Wireless Communications (WCM)
-- IEEE Transactions on Wireless Communications (TWC)
-- IEEE Transactions on Mobile Computing (TMC)
-- IEEE Transactions on Cognitive Communications and Networking (TCCN)
-- IEEE Wireless Communication Letters (WCL)
-- IEEE Internet of Things Journal (IOT-J)
-- Physical Communications
-- Information Processing and Management (IPM)
-- Knowledge-Based Systems (KNOSYS)
-- Journal of Cleaner Production (JCLEPRO)
-
-**Conference Reviewer**
-- IEEE International Conference on Communications (ICC)
-- IEEE Global Communications Conference (GLOBECOM)
-- IEEE Vehicular Technology Conference (VTC)
-- Asia-Pacific Conference on Communications (APCC)
-- IEEE/CIC International Conference on Communications in China (ICCC)
-- International Conference on Future Communications and Networks (FCN)
-- International Joint Conference on Neural Networks (IJCNN)
-- International Conference on Artificial Intelligence of Things and Systems (AIoTSys) -->
-
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
@@ -112,7 +82,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - Asia-Pacific Conference on Communications (APCC)
 - IEEE/CIC International Conference on Communications in China (ICCC)
 
-**Involvement in Standard Contributions**
+**Standardization**
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
 
 ### <font color=CornflowerBlue>Machine Learning and Data Science</font>
@@ -121,10 +91,11 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - Knowledge-Based Systems (KNOSYS)
 - Information Processing and Management (IPM)
 - Journal of Cleaner Production (JCLEPRO)
+- Journal of Supercomputing
 
 **Conference Reviewer**
-- International Conference on Learning Representations (ICLR) Workshops
 - International Joint Conference on Neural Networks (IJCNN)
+- International Conference on Learning Representations (ICLR) Workshops
 
 ### <font color=CornflowerBlue>Smart Healthcare</font>
 **Journal Referee**
@@ -134,13 +105,14 @@ Dr. Zhou's research interests include machine learning and data science as well 
 **Conference Reviewer**
 - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
+
 # 🏆 Recognition and Awards
 - May 2023, Winning Prize of the First 6G Intelligent Wireless Communication System Competition (Ranking 9/1252), as the Captain
 - Apr. 2022, Second Prize of the First 6G AI Competition (Ranking 2/727), as the Captain
 - May 2018, Second Prize of the ASC Student Supercomputer Challenge, as the Captain
-- Mar. 2017, National Encouragement Scholarship
+<!-- - Mar. 2017, National Encouragement Scholarship
 - Mar. 2016, National Encouragement Scholarship
-- Mar. 2015, National Encouragement Scholarship
+- Mar. 2015, National Encouragement Scholarship -->
 
 # 🔉 Invited Talks
 - Aug. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", Guangxi University
