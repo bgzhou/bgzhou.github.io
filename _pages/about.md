@@ -110,6 +110,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - May 2023, Winning Prize of the First 6G Intelligent Wireless Communication System Competition (Ranking 9/1252), as the Captain
 - Apr. 2022, Second Prize of the First 6G AI Competition (Ranking 2/727), as the Captain
 - May 2018, Second Prize of the ASC Student Supercomputer Challenge, as the Captain
+
 <!-- - Mar. 2017, National Encouragement Scholarship
 - Mar. 2016, National Encouragement Scholarship
 - Mar. 2015, National Encouragement Scholarship -->
