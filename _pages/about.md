@@ -62,7 +62,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
 **Conference TPC Member**
-- IEEE VTC2025-Fall - Tracks: Multiple Antennas and Cooperative Communications; Signal Processing for Wireless Communications
+- IEEE VTC2025-Fall - Tracks: Signal Processing for Wireless Communications; Multiple Antennas and Cooperative Communications
 - IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
 - IEEE VTC2024-Spring - Track: Signal Transmission and Reception
 
