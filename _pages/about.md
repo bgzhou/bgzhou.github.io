@@ -19,10 +19,10 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC-Spring and VTC-Fall) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC-Spring and VTC-Fall) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, IPM, etc.).
 
 # 🔥 News
-- 2025-04-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems](https://arxiv.org/abs/2404.00598) has been accepted by ***IEEE Transactions on Vehicular Technology***.
+- 2025-04-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems](https://ieeexplore.ieee.org/abstract/document/10981669) has been accepted by ***IEEE Transactions on Vehicular Technology***.
 
 - 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
 
@@ -74,8 +74,9 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Communications (TCOM)
-- IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Internet of Things Journal (IoT-J)
+- IEEE Transactions on Cognitive Communications and Networking (TCCN)
+- IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Wireless Communication Letters (WCL)
 - IEEE Internet of Things Magazine (IoTM)
 
@@ -237,7 +238,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 **[J11]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” submitted to **IEEE Transactions on Network Science and Engineering**, under review. [Preprint](https://arxiv.org/abs/2410.23919)
 
-**[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” accepted by **IEEE Transactions on Vehicular Technology**. **(JCR Q1, IF: 6.1)** [Preprint](https://arxiv.org/abs/2404.00598)
+**[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” accepted by **IEEE Transactions on Vehicular Technology**. **(JCR Q1, IF: 6.1)** [Paper](https://ieeexplore.ieee.org/abstract/document/10981669) | [Preprint](https://arxiv.org/abs/2404.00598)
 
 **[J9]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” **IEEE Transactions on Wireless Communications**, vol. 24, no. 4, pp. 2797-2813, Apr. 2025. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10836149) \| [Preprint](https://arxiv.org/abs/2406.08887)
 
@@ -316,7 +317,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - **Applied Data Mining**: Spatial-Temporal (Demand) Forecasting, Energy Disaggregation
 
-- **Smart Healthcare**: Health Informatics -->
+- **Smart Healthcare**: Health Informatics
 
 ## <font color=MediumAquaMarine>Research Highlights</font>
 
@@ -355,7 +356,7 @@ Channel modeling is an important area of 6G pre-research. To cope with the incre
 
 <img src='images/AICompetition_ChannelModeling.png' width = "1200" alt="" align=center />
 
-(2) Our recent solution to **CSI feedback with limited samples** won the **Winning Prize (ranking 9/1252 teams)**</font> of the **First 6G Intelligent Wireless Communication System Competition** held by the IMT-2030 (6G) Promotion Group and Guangdong OPPO Mobile Communications Corp., Ltd.
+(2) Our recent solution to **CSI feedback with limited samples** won the **Winning Prize (ranking 9/1252 teams)** of the **First 6G Intelligent Wireless Communication System Competition** held by the IMT-2030 (6G) Promotion Group and Guangdong OPPO Mobile Communications Corp., Ltd.
 
 Deep learning based CSI feedback has received widespread attention from academia and industry in recent years. However, most of the existing deep learning based CSI feedback methods are purely data-driven. In addition to obtaining high-performance gains brought by data-driven, such methods also show poor generalization performance in different scenarios. Currently, to mitigate this issue, expensive data collection costs and long training time for different scenarios are inevitable, and thus poses further challenges for the implementation of such deep learning based CSI feedback methods. To address these challenges, we propose a CSI feedback method that uses only a small number of samples to obtain better generalization capabilities. Through **frequency domain data augmentation** and the advanced **dual-attention-based CSI feedback model**, the proposed CSI feedback method can achieve CSI feedback with good generalization ability in a very concise way. In addition, to mitigate quantization errors, we further propose a **quantization ensemble framework** which exploits several quantizers and dequantizers for ensemble. Specifically, constrained by 30-bit CSI feedback overhead and to balance the number of feedback bits, quantization error and the size of backbone networks, we use 27 bits for quantization and 3 bits as the quantizer index (which indicates that a total of 8 quantizers with different configurations can be utilized). Hybrid scalar quantization is considered, and each two quantizers share an Encoder backbone network to ensure that each Encoder backbone network has larger model scale and learning capabilities.
 
