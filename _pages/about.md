@@ -238,7 +238,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 **[J11]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” submitted to **IEEE Transactions on Network Science and Engineering**, under review. [Preprint](https://arxiv.org/abs/2410.23919)
 
-**[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” accepted by **IEEE Transactions on Vehicular Technology**. **(JCR Q1, IF: 6.1)** [Paper](https://ieeexplore.ieee.org/abstract/document/10981669) | [Preprint](https://arxiv.org/abs/2404.00598)
+**[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” accepted by **IEEE Transactions on Vehicular Technology**. **(JCR Q1, IF: 6.1)** [Paper](https://ieeexplore.ieee.org/abstract/document/10981669) \| [Preprint](https://arxiv.org/abs/2404.00598)
 
 **[J9]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” **IEEE Transactions on Wireless Communications**, vol. 24, no. 4, pp. 2797-2813, Apr. 2025. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10836149) \| [Preprint](https://arxiv.org/abs/2406.08887)
 
