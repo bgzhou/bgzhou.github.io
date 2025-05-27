@@ -19,9 +19,11 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, IPM, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, RENE, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, IPM, etc.).
 
 # 🔥 News
+- 2025-05-21 **<font color=Fuchsia>New publication</font>**: One paper titled [A Deep Time-Frequency Augmented Wind Power Forecasting Model]() has been accepted by ***Renewable Energy***.
+- 
 - 2025-04-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems](https://ieeexplore.ieee.org/abstract/document/10981669) has been accepted by ***IEEE Transactions on Vehicular Technology***.
 
 - 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
@@ -140,7 +142,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 [Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios](https://ieeexplore.ieee.org/document/10836149)
 
-**Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang
+**Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” **IEEE Transactions on Wireless Communications**, vol. 24, no. 4, pp. 2797-2813, Apr. 2025. **(JCR Q1, IF: 8.9)**
  
 [Preprint](https://arxiv.org/abs/2406.08887) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:tOudhMTPpwUC'></span></strong>
 
@@ -154,7 +156,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 [A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems](https://ieeexplore.ieee.org/document/10600118)
 
-**Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang
+**Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 8.9)**
  
 [Preprint](https://arxiv.org/abs/2312.04062) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:nb7KW1ujOQ8C'></span></strong>
 
@@ -168,7 +170,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 [Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots](https://ieeexplore.ieee.org/document/10315065)
 
-**Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang
+**Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 8.9)**
  
 [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:UxriW0iASnsC'></span></strong>
 
@@ -184,7 +186,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 [A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting](https://www.sciencedirect.com/science/article/pii/S0950705123000254)
 
-**Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma
+**Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma, “A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting,” **Knowledge-Based Systems**, vol. 263, p. 110275, Mar. 2023. **(JCR Q1, IF: 8.8)**
  
 <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:p2g8aNsByqUC'></span></strong>
 
@@ -198,7 +200,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 [Interpretable Temporal Attention Network for COVID-19 Forecasting](https://www.sciencedirect.com/science/article/pii/S1568494622001545)
 
-**Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma
+**Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Interpretable Temporal Attention Network for COVID-19 Forecasting,” **Applied Soft Computing**, vol. 120, p. 108691, May 2022. **(JCR Q1, IF: 8.7)**
  
 <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:OU6Ihb5iCvQC'></span></strong>
 
@@ -215,9 +217,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 [Natural Language Processing for Smart Healthcare](https://ieeexplore.ieee.org/abstract/document/9904944)
 
-**Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma
-
-***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE RBME
+**Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.6, ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of ***<font color=Red>IEEE RBME</font>***)**
  
 [Preprint](https://arxiv.org/abs/2110.15803) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:K3LRdlH-MEoC'></span></strong>
 
@@ -273,9 +273,9 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 <!-- **[J5]** Yunxuan Dong, **Binggui Zhou**, and Guanghua Yang, “Dynamic Spatial-temporal Wind Power Forecasting with a Novel Attention Mechanism,” submitted to **IEEE Internet of Things Journal**. -->
 
-<!-- **[J4]** Yunxuan Dong, **Binggui Zhou**, Hongcai Zhang, Guanghua Yang, and Shaodan Ma, “A Deep Time-Frequency Augmented Wind Power Forecasting Model,” submitted to **Renewable Energy**. -->
+**[J4]** Yunxuan Dong, **Binggui Zhou**, Hongcai Zhang, Guanghua Yang, and Shaodan Ma, “A Deep Time-Frequency Augmented Wind Power Forecasting Model,” accepted by **Renewable Energy**. **(JCR Q1, IF: 9.0)**
 
-**[J3]** Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6)** [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223007865)
+**[J3]** Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6.0)** [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223007865)
 
 **[J2]** **Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma, “A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting,” **Knowledge-Based Systems**, vol. 263, p. 110275, Mar. 2023. **(JCR Q1, IF: 8.8)** [Paper](https://www.sciencedirect.com/science/article/pii/S0950705123000254) 
 
