@@ -19,9 +19,11 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, RENE, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, IPM, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, RENE, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, IPM, etc.).
 
 # 🔥 News
+- 2025-06-18 **<font color=Blue>New preprint</font>**: One paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136) has been submitted to IEEE journal for possible publication.
+
 - 2025-05-21 **<font color=Fuchsia>New publication</font>**: One paper titled [A Deep Time-Frequency Augmented Wind Power Forecasting Model]() has been accepted by ***Renewable Energy***.
 
 - 2025-04-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems](https://ieeexplore.ieee.org/abstract/document/10981669) has been accepted by ***IEEE Transactions on Vehicular Technology***.
@@ -73,6 +75,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 **Journal Referee**
 - IEEE Wireless Communications (WCM)
 - IEEE Communications Magazine (CM)
+- IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Communications (TCOM)
@@ -236,6 +239,8 @@ Dr. Zhou's research interests include machine learning and data science as well 
 <!-- [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/abstract/document/9475482) 【公式形式显示】 -->
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
+
+**[J12]** Kehui Li, **Binggui Zhou**, Jiajia Guo, Feifei Gao, Guanghua Yang, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, submitted to **IEEE Transactions on Communications**, under review. [Preprint](https://arxiv.org/abs/2506.15136)
 
 **[J11]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” submitted to **IEEE Transactions on Network Science and Engineering**, under review. [Preprint](https://arxiv.org/abs/2410.23919)
 
