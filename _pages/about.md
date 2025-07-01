@@ -30,7 +30,10 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
 
-<!-- 
+<details>
+<summary><span style="font-size: 20px; font-weight: bold;">Past News</span></summary>
+
+### 2024
 
 - 2024-12-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios](https://ieeexplore.ieee.org/document/10836149) has been accepted by ***IEEE Transactions on Wireless Communications***.
 
@@ -52,7 +55,10 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - 2024-04-02 **<font color=Blue>New preprint</font>**: <a href="https://arxiv.org/abs/2404.00598"><font color=Black>Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems</font></a>.
 
-- 2024-02-08 **<font color=Red>Recognition</font>**: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>Natural Language Processing for Smart Healthcare</font></a> has been listed as a ***<font color=Red>Popular Article</font>*** of ***IEEE Reviews in Biomedical Engineering*** **(IF 17.6)** since Feb. 2024. -->
+- 2024-02-08 **<font color=Red>Recognition</font>**: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>Natural Language Processing for Smart Healthcare</font></a> has been listed as a ***<font color=Red>Popular Article</font>*** of ***IEEE Reviews in Biomedical Engineering*** **(IF 17.6)** since Feb. 2024.
+
+</details>
+
 
 # 💼 Professional Experience
 - Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London**
