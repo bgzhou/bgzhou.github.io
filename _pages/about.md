@@ -19,16 +19,18 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, IPM, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has Published Version more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KNOSYS, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, KNOSYS, IPM, etc.).
 
 # 🔥 News
 - 2025-06-18 **<font color=Blue>New preprint</font>**: One paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136) has been submitted to IEEE journal for possible publication.
 
-- 2025-05-21 **<font color=Fuchsia>New publication</font>**: One paper titled [A Deep Time-Frequency Augmented Wind Power Forecasting Model]() has been accepted by ***Renewable Energy***.
+- 2025-05-21 **<font color=Fuchsia>New publication</font>**: One paper titled [A Deep Time-Frequency Augmented Wind Power Forecasting Model](https://www.sciencedirect.com/science/article/pii/S0960148125012121) has been accepted by ***Renewable Energy***.
 
 - 2025-04-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems](https://ieeexplore.ieee.org/abstract/document/10981669) has been accepted by ***IEEE Transactions on Vehicular Technology***.
 
 - 2025-01-04 **<font color=Fuchsia>New publication</font>**: One paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
+
+<!-- 
 
 - 2024-12-27 **<font color=Fuchsia>New publication</font>**: One paper titled [Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios](https://ieeexplore.ieee.org/document/10836149) has been accepted by ***IEEE Transactions on Wireless Communications***.
 
@@ -42,7 +44,6 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - 2024-07-10 Successfully defended my PhD thesis! And I will joint the Department of Electrical and Electronic Engineering, Imperial College London, as a Postdoctoral Research Associate this Fall.
 
-<!-- 
 - 2024-06-19 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10600118"><font color=Black>A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
 
 - 2024-06-14 **<font color=Blue>New preprint</font>**: <a href="https://arxiv.org/abs/2406.08887"><font color=Black>Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios</font></a>.
@@ -244,25 +245,25 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 **[J11]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” submitted to **IEEE Transactions on Network Science and Engineering**, under review. [Preprint](https://arxiv.org/abs/2410.23919)
 
-**[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” accepted by **IEEE Transactions on Vehicular Technology**. **(JCR Q1, IF: 6.1)** [Published](https://ieeexplore.ieee.org/abstract/document/10981669) \| [Preprint](https://arxiv.org/abs/2404.00598)
+**[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” accepted by **IEEE Transactions on Vehicular Technology**. **(JCR Q1, IF: 6.1)** [Published Version](https://ieeexplore.ieee.org/abstract/document/10981669) \| [Preprint](https://arxiv.org/abs/2404.00598)
 
-**[J9]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” **IEEE Transactions on Wireless Communications**, vol. 24, no. 4, pp. 2797-2813, Apr. 2025. **(JCR Q1, IF: 8.9)** [Published](https://ieeexplore.ieee.org/document/10836149) \| [Preprint](https://arxiv.org/abs/2406.08887)
+**[J9]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” **IEEE Transactions on Wireless Communications**, vol. 24, no. 4, pp. 2797-2813, Apr. 2025. **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10836149) \| [Preprint](https://arxiv.org/abs/2406.08887)
 
-**[J8]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “Throughput Maximization of HARQ-IR for ISAC,” **IEEE Communications Letters**, vol. 29, no. 3, pp. 492-496, Mar. 2025. **(JCR Q2, IF: 3.7)** [Published](https://ieeexplore.ieee.org/document/10833859)
+**[J8]** Jianpeng Zou, Zheng Shi, **Binggui Zhou**, Yaru Fu, Hong Wang, and Weiqiang Tan, “Throughput Maximization of HARQ-IR for ISAC,” **IEEE Communications Letters**, vol. 29, no. 3, pp. 492-496, Mar. 2025. **(JCR Q2, IF: 3.7)** [Published Version](https://ieeexplore.ieee.org/document/10833859)
 
-**[J7]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” **IEEE Vehicular Technology Magazine**, vol. 19, no. 4, pp. 64-72, Dec. 2024. **(JCR Q1, IF: 5.8)** [Published](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
+**[J7]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” **IEEE Vehicular Technology Magazine**, vol. 19, no. 4, pp. 64-72, Dec. 2024. **(JCR Q1, IF: 5.8)** [Published Version](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
-**[J6]** Fuchao He, Zheng Shi, **Binggui Zhou**, Guanghua Yang, Xiaofan Li, Xinrong Ye, and Shaodan Ma, “BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications,” **IEEE Internet of Things Journal**, vol. 11, no. 21, pp. 35536-35550, 1 Nov.1, 2024. **(JCR Q1, IF: 8.2)** [Published](https://ieeexplore.ieee.org/document/10620242)
+**[J6]** Fuchao He, Zheng Shi, **Binggui Zhou**, Guanghua Yang, Xiaofan Li, Xinrong Ye, and Shaodan Ma, “BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications,” **IEEE Internet of Things Journal**, vol. 11, no. 21, pp. 35536-35550, 1 Nov.1, 2024. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/document/10620242)
 
-**[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 8.9)** [Published](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
+**[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
 
-**[J4]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 8.9)** [Published](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
+**[J4]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
 
-**[J3]** Xi Yang\*, Fuqiang Zhu, **Binggui Zhou**\*, Ting Liu, and Shaodan Ma, “Gridless Hybrid-Field Channel Estimation for Extra-Large Aperture Array Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 13, no. 2, pp. 496-500, Feb. 2024. **(JCR Q1, IF: 4.6)** [Published](https://ieeexplore.ieee.org/document/10319723)
+**[J3]** Xi Yang\*, Fuqiang Zhu, **Binggui Zhou**\*, Ting Liu, and Shaodan Ma, “Gridless Hybrid-Field Channel Estimation for Extra-Large Aperture Array Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 13, no. 2, pp. 496-500, Feb. 2024. **(JCR Q1, IF: 4.6)** [Published Version](https://ieeexplore.ieee.org/document/10319723)
 
-**[J2]** Xianda Wu, Xi Yang, Shaodan Ma, **Binggui Zhou**, and Guanghua Yang, “Hybrid Channel Estimation for UPA-Assisted Millimeter-Wave Massive MIMO IoT Systems,” **IEEE Internet of Things Journal**, vol. 9, no. 4, pp. 2829-2842, Feb. 2022. **(JCR Q1, IF: 8.2)** [Published](https://ieeexplore.ieee.org/abstract/document/9475482) 
+**[J2]** Xianda Wu, Xi Yang, Shaodan Ma, **Binggui Zhou**, and Guanghua Yang, “Hybrid Channel Estimation for UPA-Assisted Millimeter-Wave Massive MIMO IoT Systems,” **IEEE Internet of Things Journal**, vol. 9, no. 4, pp. 2829-2842, Feb. 2022. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/abstract/document/9475482) 
 
-**[J1]** Xiaohong Chen, Changxing Deng, **Binggui Zhou**, Huan Zhang, Shaodan Ma, and Guanghua Yang, “High-Accuracy CSI Feedback with Super-Resolution Network for Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 11, no. 1, pp. 141-145, Jan. 2022. **(JCR Q1, IF: 4.6)** [Published](https://ieeexplore.ieee.org/abstract/document/9585309) \| [Code](https://github.com/MoliaChen/SRNet)
+**[J1]** Xiaohong Chen, Changxing Deng, **Binggui Zhou**, Huan Zhang, Shaodan Ma, and Guanghua Yang, “High-Accuracy CSI Feedback with Super-Resolution Network for Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 11, no. 1, pp. 141-145, Jan. 2022. **(JCR Q1, IF: 4.6)** [Published Version](https://ieeexplore.ieee.org/abstract/document/9585309) \| [Code](https://github.com/MoliaChen/SRNet)
 
 **[C2]** Kehui Li, **Binggui Zhou**, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in **Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring**, pp. 1-6, 2024.
 
@@ -278,13 +279,13 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 <!-- **[J5]** Yunxuan Dong, **Binggui Zhou**, and Guanghua Yang, “Dynamic Spatial-temporal Wind Power Forecasting with a Novel Attention Mechanism,” submitted to **IEEE Internet of Things Journal**. -->
 
-**[J4]** Yunxuan Dong, **Binggui Zhou**, Hongcai Zhang, Guanghua Yang, and Shaodan Ma, “A Deep Time-Frequency Augmented Wind Power Forecasting Model,” accepted by **Renewable Energy**. **(JCR Q1, IF: 9.0)**
+**[J4]** Yunxuan Dong, **Binggui Zhou**, Hongcai Zhang, Guanghua Yang, and Shaodan Ma, “A Deep Time-Frequency Augmented Wind Power Forecasting Model,” accepted by **Renewable Energy**. **(JCR Q1, IF: 9.0)** [Published Version](https://www.sciencedirect.com/science/article/pii/S0960148125012121)
 
-**[J3]** Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6.0)** [Published](https://www.sciencedirect.com/science/article/pii/S0925231223007865)
+**[J3]** Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6.0)** [Published Version](https://www.sciencedirect.com/science/article/pii/S0925231223007865)
 
-**[J2]** **Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma, “A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting,” **Knowledge-Based Systems**, vol. 263, p. 110275, Mar. 2023. **(JCR Q1, IF: 7.2)** [Published](https://www.sciencedirect.com/science/article/pii/S0950705123000254) 
+**[J2]** **Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma, “A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting,” **Knowledge-Based Systems**, vol. 263, p. 110275, Mar. 2023. **(JCR Q1, IF: 7.2)** [Published Version](https://www.sciencedirect.com/science/article/pii/S0950705123000254) 
 
-**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Interpretable Temporal Attention Network for COVID-19 Forecasting,” **Applied Soft Computing**, vol. 120, p. 108691, May 2022. **(JCR Q1, IF: 7.2)** [Published](https://www.sciencedirect.com/science/article/pii/S1568494622001545)
+**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Interpretable Temporal Attention Network for COVID-19 Forecasting,” **Applied Soft Computing**, vol. 120, p. 108691, May 2022. **(JCR Q1, IF: 7.2)** [Published Version](https://www.sciencedirect.com/science/article/pii/S1568494622001545)
 
 <!-- **[C3]** Yunxuan Dong, **Binggui Zhou**, and Guanghua Yang, “Dynamic Learning of Key Locations for Enhancing Spatial-Temporal Tourism Demand Forecasting,” submitted to **SIGKDD 2024**.  -->
 <!-- [<font color=Blue>\[Open Review\]</font>](https://arxiv.org/abs/2309.10575) -->
@@ -297,7 +298,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 ### <font color=CornflowerBlue>Smart Healthcare</font>
 
-**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.2, ESI Hot Paper, ESI Highly Cited Paper, and Popular Article & Featured Article of IEEE Reviews in Biomedical Engineering)** [Published](https://ieeexplore.ieee.org/abstract/document/9904944) \| [Preprint](https://arxiv.org/abs/2110.15803)
+**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.2, ESI Hot Paper, ESI Highly Cited Paper, and Popular Article & Featured Article of IEEE Reviews in Biomedical Engineering)** [Published Version](https://ieeexplore.ieee.org/abstract/document/9904944) \| [Preprint](https://arxiv.org/abs/2110.15803)
 
 ### <font color=CornflowerBlue>Miscellaneous</font>
 
