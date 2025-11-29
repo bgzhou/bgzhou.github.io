@@ -19,7 +19,7 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has Published Version more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KBS, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE WCM, IEEE CM, IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, KBS, IPM, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has Published Version more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, KBS, IEEE IOT-J, IEEE TVT, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, IPM, etc.).
 
 # 🔥 News
 - 2025-10-17 **<font color=Blue>New submission</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://arxiv.org/abs/2510.15701) has been submitted to IEEE journal for possible publication.
@@ -119,7 +119,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 ### <font color=CornflowerBlue>Machine Learning and Data Science</font>
 
 **Journal Referee**
-- IEEE TASE, PR, KBS, EAAI, IPM, ESWA, Energy, JCLEPRO, etc.
+- IEEE TASE, PR, KBS, EAAI, IPM, ESWA, INFFUS, Energy, JCLEPRO, etc.
 
 <!-- - IEEE Transactions on Automation Science and Engineering (TASE)
 - Knowledge-Based Systems (KBS)
