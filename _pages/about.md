@@ -24,7 +24,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 # 🔥 News
 - 2025-10-17 **<font color=Blue>New submission</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://arxiv.org/abs/2510.15701) has been submitted to IEEE journal for possible publication.
 
-- 2025-09-05 **<font color=Blue>New submission</font>**: One co-authored paper titled “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers” has been submitted to **IEEE Internet of Things Journal** for possible publication.
+- 2025-09-05 **<font color=Blue>New submission</font>**: One co-authored paper titled “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers” has been submitted to IEEE journal for possible publication.
 
 - 2025-06-18 **<font color=Blue>New submission</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136) has been submitted to IEEE journal for possible publication.
 
@@ -119,7 +119,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 ### <font color=CornflowerBlue>Machine Learning and Data Science</font>
 
 **Journal Referee**
-- IEEE TASE, KBS, EAAI, IPM, ESWA, JCLEPRO, etc.
+- IEEE TASE, PR, KBS, EAAI, IPM, ESWA, Energy, JCLEPRO, etc.
 
 <!-- - IEEE Transactions on Automation Science and Engineering (TASE)
 - Knowledge-Based Systems (KBS)
