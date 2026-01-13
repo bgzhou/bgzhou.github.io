@@ -22,9 +22,12 @@ Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering fr
 Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has Published Version more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE RBME, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, IPM, etc.).
 
 # 🔥 News
+
 - 2025-01-08 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://arxiv.org/abs/2410.23919) has been accepted by ***IEEE Transactions on Network Science and Engineering***.
 
 - 2025-01-05 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136) has been accepted by ***IEEE Transactions on Communciations***.
+
+- 2025-12-29 **<font color=Blue>New submission</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://arxiv.org/abs/2601.06858) has been submitted to IEEE journal for possible publication.
 
 - 2025-12-28 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers](https://ieeexplore.ieee.org/document/11328073/) has been accepted by ***IEEE Internet of Things Journal***.
 
@@ -271,9 +274,11 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
+**[J15]** Qikai Xiao&dagger;, Kehui Li&dagger;, **Binggui Zhou**, and Shaodan Ma, “Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems,” submitted to **IEEE Wireless Communications Letters**. [Preprint](https://arxiv.org/abs/2601.06858)
+
 **[J14]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2510.15701)
 
-**[J13]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://arxiv.org/abs/2410.23919) \| [Preprint](https://arxiv.org/abs/2410.23919)
+**[J13]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, and Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://arxiv.org/abs/2410.23919) \| [Preprint](https://arxiv.org/abs/2410.23919)
 
 **[J12]** Kehui Li, **Binggui Zhou**\*, Jiajia Guo, Feifei Gao, Guanghua Yang\*, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, **IEEE Transactions on Communications**, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://arxiv.org/abs/2506.15136) \| [Preprint](https://arxiv.org/abs/2506.15136)
 
