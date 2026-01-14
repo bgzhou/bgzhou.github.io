@@ -23,7 +23,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 # 🔥 News
 
-- 2025-01-08 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://arxiv.org/abs/2410.23919) has been accepted by ***IEEE Transactions on Network Science and Engineering***.
+- 2025-01-08 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://ieeexplore.ieee.org/document/11347574) has been accepted by ***IEEE Transactions on Network Science and Engineering***.
 
 - 2025-01-05 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136) has been accepted by ***IEEE Transactions on Communciations***.
 
@@ -278,7 +278,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 **[J14]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2510.15701)
 
-**[J13]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, and Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://arxiv.org/abs/2410.23919) \| [Preprint](https://arxiv.org/abs/2410.23919)
+**[J13]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, and Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11347574) \| [Preprint](https://arxiv.org/abs/2410.23919)
 
 **[J12]** Kehui Li, **Binggui Zhou**\*, Jiajia Guo, Feifei Gao, Guanghua Yang\*, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, **IEEE Transactions on Communications**, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://arxiv.org/abs/2506.15136) \| [Preprint](https://arxiv.org/abs/2506.15136)
 
