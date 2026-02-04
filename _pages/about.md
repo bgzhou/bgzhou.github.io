@@ -88,7 +88,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
 **Conference TPC Member**
-- IEEE GLOBECOM 2026, IEEE VTC2025-Spring, IEEE VTC2025-Fall, WCSP 2025, IEEE VTC2025-Spring, IEEE VTC2024-Spring, etc.
+- IEEE GLOBECOM 2026, IEEE VTC2026-Spring, IEEE VTC2025-Fall, WCSP 2025, IEEE VTC2025-Spring, IEEE VTC2024-Spring, etc.
 
 <!-- - WCSP 2025 - Symposium: AI for Communications and Networking
 - IEEE VTC2025-Fall - Tracks: Signal Processing for Wireless Communications; Multiple Antennas and Cooperative Communications; Recent Results
