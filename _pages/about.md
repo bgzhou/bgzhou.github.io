@@ -162,6 +162,8 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - Mar. 2015, National Encouragement Scholarship -->
 
 # 🔉 Invited Talks
+- Dec. 2025, "Learning-Based Low-Overhead Channel Estimation and Feedback for Massive MIMO Systems", Huazhong University of Science and Technology
+- Dec. 2025, "Learning-Based Low-Overhead Channel Estimation and Feedback for Massive MIMO Systems", Nanjing University of Science and Technology
 - Aug. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", Guangxi University
 - Jul. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", South China Normal University
 
