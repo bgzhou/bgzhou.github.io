@@ -280,11 +280,11 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 **[J14]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2510.15701)
 
-**[J13]** Kehui Li, **Binggui Zhou**\*, Jiajia Guo, Feifei Gao, Guanghua Yang\*, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, **IEEE Transactions on Communications**, Jan. 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11358948) \| [Preprint](https://arxiv.org/abs/2506.15136)
+**[J13]** Xi Yang\*, Dahong Du, Ting Liu, **Binggui Zhou**\*, and Shaodan Ma, “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers,” **IEEE Internet of Things Journal**, 2026. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/document/11328073)
 
 **[J12]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, and Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, vol. 13, pp. 5833-5850, Jan. 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11347574) \| [Preprint](https://arxiv.org/abs/2410.23919)
 
-**[J11]** Xi Yang\*, Dahong Du, Ting Liu, **Binggui Zhou**\*, and Shaodan Ma, “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers,” **IEEE Internet of Things Journal**, 2026. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/document/11328073)
+**[J11]** Kehui Li, **Binggui Zhou**\*, Jiajia Guo, Feifei Gao, Guanghua Yang\*, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, **IEEE Transactions on Communications**, Jan. 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11358948) \| [Preprint](https://arxiv.org/abs/2506.15136)
 
 **[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” **IEEE Transactions on Vehicular Technology**, vol. 74, no. 9, pp. 14943-14948, Sep. 2025. **(JCR Q1, IF: 6.1)** [Published Version](https://ieeexplore.ieee.org/abstract/document/10981669) \| [Preprint](https://arxiv.org/abs/2404.00598)
 
