@@ -22,6 +22,9 @@ Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering fr
 Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has Published Version more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE RBME, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, etc.).
 
 # 🔥 News
+- 2026-02-09 **<font color=Red>Project</font>**: I am glad to share that I have been awarded the **MSCA Postdoctoral Fellowships** during the 2025 call (**success rate: 9.6%**).  I will move to [Delft University of Technology](https://www.tudelft.nl/en/), Netherlands, to start my project: **ISACare - Integrated WiFi Sensing and Communication for Sustainable and Robust Digital Health Monitoring**.
+
+- 2026-02-06 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems]() has been accepted to ***IEEE INFOCOM 2026 WORKSHOPS - DeepWireless: Deep Learning for Wireless Communications, Sensing, and Security***.
 
 - 2026-01-08 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://ieeexplore.ieee.org/document/11347574) has been accepted by ***IEEE Transactions on Network Science and Engineering***.
 
@@ -306,6 +309,8 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 **[J1]** Xiaohong Chen, Changxing Deng, **Binggui Zhou**, Huan Zhang, Shaodan Ma, and Guanghua Yang, “High-Accuracy CSI Feedback with Super-Resolution Network for Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 11, no. 1, pp. 141-145, Jan. 2022. **(JCR Q1, IF: 4.6)** [Published Version](https://ieeexplore.ieee.org/abstract/document/9585309) \| [Code](https://github.com/MoliaChen/SRNet)
 
+**[C3]** Weiqiang Tan, Minwei Zhang, Jintao Wang, **Binggui Zhou**, Xiyuan Chen, and Chunguo Li, “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems,“ in **Proceedings of IEEE INFOCOM WKSHPS**, pp. 1-6, 2026.
+
 **[C2]** Kehui Li, **Binggui Zhou**, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in **Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring**, pp. 1-6, 2024.
 
 **[C1]** **Binggui Zhou**, Shaodan Ma, and Guanghua Yang, “Transformer-based CSI Feedback with Hybrid Learnable Non-Uniform Quantization for Massive MIMO Systems,” in **Proceedings of 2023 32nd Wireless and Optical Communications Conference (WOCC)**, pp. 1-5, 2023.
@@ -367,7 +372,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - **Applied Data Mining**: Spatial-Temporal (Demand) Forecasting, Energy Disaggregation
 
-- **Smart Healthcare**: Health Informatics
+- **Smart Healthcare**: Digital Health Mornitoring, Health Informatics
 
 ## <font color=MediumAquaMarine>Research Highlights</font>
 
