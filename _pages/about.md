@@ -19,7 +19,7 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has Published Version more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE RBME, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE RBME, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. Dr. Zhou has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE ICC, IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, etc.).
 
 # 🔥 News
 - 2026-02-09 **<font color=Red>Project</font>**: I am glad to share that I have been awarded the **MSCA Postdoctoral Fellowships** during the 2025 call (**success rate: 9.6%**).  I will move to [Delft University of Technology](https://www.tudelft.nl/en/), Netherlands, to start my project: **ISACare - Integrated WiFi Sensing and Communication for Sustainable and Robust Digital Health Monitoring**.
@@ -91,7 +91,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
 **Conference TPC Member**
-- IEEE GLOBECOM 2026, IEEE VTC2026-Spring, IEEE VTC2025-Fall, WCSP 2025, IEEE VTC2025-Spring, IEEE VTC2024-Spring, etc.
+- IEEE GLOBECOM 2026, IEEE ICC 2026, IEEE VTC2026-Spring, IEEE VTC2025-Fall, WCSP 2025, IEEE VTC2025-Spring, IEEE VTC2024-Spring, etc.
 
 <!-- - WCSP 2025 - Symposium: AI for Communications and Networking
 - IEEE VTC2025-Fall - Tracks: Signal Processing for Wireless Communications; Multiple Antennas and Cooperative Communications; Recent Results
@@ -115,7 +115,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - IEEE Wireless Communication Letters (WCL) -->
 
 **Conference Reviewer**
--  IEEE ICC, IEEE GLOBECOM, IEEE VTC, IEEE APCC, IEEE/CIC ICCC, etc.
+-  IEEE GLOBECOM, IEEE ICC, IEEE VTC, IEEE APCC, IEEE/CIC ICCC, etc.
 
 <!-- - IEEE International Conference on Communications (ICC)
 - IEEE Global Communications Conference (GLOBECOM)
