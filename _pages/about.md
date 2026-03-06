@@ -92,15 +92,15 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
-**Journal Editorial Board**
+**Editorial Board**
 - Associate Editor for IEEE WCL, Mar. 2026 - present
 
-<!-- **Conference Organizer**
-- Track/Symposium/Workshop General Co-Chair for IEEE GLOBECOM 2026 Workshops, IEEE/CIC ICCC 2026 Workshops, etc. -->
+<!-- **Conference Organizing Committee**
+- Track/Symposium/Workshop General Co-Chair for IEEE GLOBECOM 2026 Workshops, IEEE/CIC ICCC 2026 Workshop, etc. -->
 
 **Conference Technical Program Committee (TPC)**
-<!-- - TPC Co-Chair:  -->
-- TPC Member: IEEE GLOBECOM 2026, IEEE ICC 2026, IEEE VTC2026-Spring, IEEE VTC2025-Fall, WCSP 2025, IEEE VTC2025-Spring, IEEE VTC2024-Spring, etc.
+<!-- - TPC Co-Chair for  -->
+- TPC Member for IEEE GLOBECOM 2026, IEEE ICC 2026, IEEE VTC2026-Spring, IEEE VTC2025-Fall, WCSP 2025, IEEE VTC2025-Spring, IEEE VTC2024-Spring, etc.
 
 <!-- - WCSP 2025 - Symposium: AI for Communications and Networking
 - IEEE VTC2025-Fall - Tracks: Signal Processing for Wireless Communications; Multiple Antennas and Cooperative Communications; Recent Results
