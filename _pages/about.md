@@ -19,9 +19,13 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He was a recipient of the European Union's Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025 call).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE RBME, etc.) with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations. He serves as an Associate Editor for IEEE WCL. He has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE ICC, IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, IEEE RBME, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE WCL, etc.). He serves as an Associate Editor for IEEE WCL. He has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE ICC, IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, etc.).
+
+ <!-- with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations -->
 
 # 🔥 News
+- 2026-03-27 **<font color=Blue>New submission</font>**: One co-authored paper titled [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.25299) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
+- 
 - 2026-03-05 **<font color=Green>Service</font>**: I have joined the Editorial Board of [***IEEE Wireless Communications Letters***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) as an Associate Editor.
 
 - 2026-02-09 **<font color=Orange>Project</font>**: Glad to share that I have been awarded the European Union's **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships** during the 2025 call (**success rate: 9.6%**).  I will move to [Delft University of Technology](https://www.tudelft.nl/en/), Netherlands, to start my project: **ISACare - Integrated WiFi Sensing and Communication for Sustainable and Robust Digital Health Monitoring**.
@@ -32,13 +36,13 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - 2026-01-05 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://ieeexplore.ieee.org/document/11358948) has been accepted by ***IEEE Transactions on Communciations***.
 
-- 2025-12-29 **<font color=Blue>New submission</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://arxiv.org/abs/2601.06858) has been submitted to IEEE journal for possible publication.
+- 2025-12-29 **<font color=Blue>New submission</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://arxiv.org/abs/2601.06858) has been submitted to ***IEEE Wireless Communications Letters*** for possible publication.
 
 - 2025-12-28 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers](https://ieeexplore.ieee.org/document/11328073/) has been accepted by ***IEEE Internet of Things Journal***.
 
-- 2025-10-17 **<font color=Blue>New submission</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://arxiv.org/abs/2510.15701) has been submitted to IEEE journal for possible publication.
+- 2025-10-17 **<font color=Blue>New submission</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://arxiv.org/abs/2510.15701) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
 
-- 2025-06-18 **<font color=Blue>New submission</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136) has been submitted to IEEE journal for possible publication.
+- 2025-06-18 **<font color=Blue>New submission</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://arxiv.org/abs/2506.15136) has been submitted to ***IEEE Transactions on Communications*** for possible publication.
 
 - 2025-05-21 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [A Deep Time-Frequency Augmented Wind Power Forecasting Model](https://www.sciencedirect.com/science/article/pii/S0960148125012121) has been accepted by ***Renewable Energy***.
 
@@ -288,15 +292,17 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
+**[J16]** Yiyang Peng, **Binggui Zhou**, Yutong Zheng, Danilo Mandic, and Bruno Clerckx, “Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2603.25299)
+
 **[J15]** Qikai Xiao&dagger;, Kehui Li&dagger;, **Binggui Zhou**, and Shaodan Ma, “Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems,” submitted to **IEEE Wireless Communications Letters**. [Preprint](https://arxiv.org/abs/2601.06858)
 
 **[J14]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2510.15701)
 
 **[J13]** Xi Yang\*, Dahong Du, Ting Liu, **Binggui Zhou**\*, and Shaodan Ma, “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers,” **IEEE Internet of Things Journal**, 2026. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/document/11328073)
 
-**[J12]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, and Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, vol. 13, pp. 5833-5850, Jan. 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11347574) \| [Preprint](https://arxiv.org/abs/2410.23919)
+**[J12]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, and Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, vol. 13, pp. 5833-5850, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11347574) \| [Preprint](https://arxiv.org/abs/2410.23919)
 
-**[J11]** Kehui Li, **Binggui Zhou**\*, Jiajia Guo, Feifei Gao, Guanghua Yang\*, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, **IEEE Transactions on Communications**, Jan. 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11358948) \| [Preprint](https://arxiv.org/abs/2506.15136)
+**[J11]** Kehui Li, **Binggui Zhou**\*, Jiajia Guo, Feifei Gao, Guanghua Yang\*, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, **IEEE Transactions on Communications**, vol. 74, pp. 3858-3874, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11358948) \| [Preprint](https://arxiv.org/abs/2506.15136)
 
 **[J10]** Jintao Wang, **Binggui Zhou**, Chengzhi Ma, Shiqi Gong, Guanghua Yang, and Shaodan Ma, “Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems,” **IEEE Transactions on Vehicular Technology**, vol. 74, no. 9, pp. 14943-14948, Sep. 2025. **(JCR Q1, IF: 6.1)** [Published Version](https://ieeexplore.ieee.org/abstract/document/10981669) \| [Preprint](https://arxiv.org/abs/2404.00598)
 
