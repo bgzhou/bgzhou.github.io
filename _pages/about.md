@@ -36,6 +36,8 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - 2026-01-05 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://ieeexplore.ieee.org/document/11358948) has been accepted by ***IEEE Transactions on Communciations***.
 
+
+<!-- 
 - 2025-12-29 **<font color=Blue>New submission</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://arxiv.org/abs/2601.06858) has been submitted to ***IEEE Wireless Communications Letters*** for possible publication.
 
 - 2025-12-28 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers](https://ieeexplore.ieee.org/document/11328073/) has been accepted by ***IEEE Internet of Things Journal***.
@@ -48,11 +50,29 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 - 2025-04-27 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems](https://ieeexplore.ieee.org/abstract/document/10981669) has been accepted by ***IEEE Transactions on Vehicular Technology***.
 
-- 2025-01-04 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***.
+- 2025-01-04 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Throughput Maximization of HARQ-IR for ISAC](https://ieeexplore.ieee.org/document/10833859) has been accepted by ***IEEE Communications Letters***. -->
 
 
 <details>
   <summary><span style="font-size: 20px; font-weight: bold;">Past News</span></summary>
+
+<h3>2025</h3>
+
+  <ul>
+  <li>2025-12-29 <strong><span style="color: Blue;">New submission</span></strong>: One co-authored paper titled <a href="https://arxiv.org/abs/2601.06858">Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems</a> has been submitted to <em>IEEE Wireless Communications Letters</em> for possible publication.</li>
+
+  <li>2025-12-28 <strong><span style="color: Fuchsia;">New publication</span></strong>: One co-authored paper titled <a href="https://ieeexplore.ieee.org/document/11328073/">Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers</a> has been accepted by <em>IEEE Internet of Things Journal</em>.</li>
+
+  <li>2025-10-17 <strong><span style="color: Blue;">New submission</span></strong>: One paper titled <a href="https://arxiv.org/abs/2510.15701">Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization</a> has been submitted to <em>IEEE Transactions on Wireless Communications</em> for possible publication.</li>
+
+  <li>2025-06-18 <strong><span style="color: Blue;">New submission</span></strong>: One co-authored paper titled <a href="https://arxiv.org/abs/2506.15136">Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead</a> has been submitted to <em>IEEE Transactions on Communications</em> for possible publication.</li>
+
+  <li>2025-05-21 <strong><span style="color: Fuchsia;">New publication</span></strong>: One co-authored paper titled <a href="https://www.sciencedirect.com/science/article/pii/S0960148125012121">A Deep Time-Frequency Augmented Wind Power Forecasting Model</a> has been accepted by <em>Renewable Energy</em>.</li>
+
+  <li>2025-04-27 <strong><span style="color: Fuchsia;">New publication</span></strong>: One co-authored paper titled <a href="https://ieeexplore.ieee.org/abstract/document/10981669">Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems</a> has been accepted by <em>IEEE Transactions on Vehicular Technology</em>.</li>
+
+  <li>2025-01-04 <strong><span style="color: Fuchsia;">New publication</span></strong>: One co-authored paper titled <a href="https://ieeexplore.ieee.org/document/10833859">Throughput Maximization of HARQ-IR for ISAC</a> has been accepted by <em>IEEE Communications Letters</em>.</li>
+  </ul>
 
   <h3>2024</h3>
 
@@ -298,7 +318,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 **[J14]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2510.15701)
 
-**[J13]** Xi Yang\*, Dahong Du, Ting Liu, **Binggui Zhou**\*, and Shaodan Ma, “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers,” **IEEE Internet of Things Journal**, 2026. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/document/11328073)
+**[J13]** Xi Yang\*, Dahong Du, Ting Liu, **Binggui Zhou**\*, and Shaodan Ma, “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers,” **IEEE Internet of Things Journal**, vol. 13, no. 7, pp. 14829-14843, Apr. 2026. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/document/11328073)
 
 **[J12]** Hao Xia, Qing Xue, Yanping Liu, **Binggui Zhou**, Meng Hua, and Qianbin Chen, “Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks,” **IEEE Transactions on Network Science and Engineering**, vol. 13, pp. 5833-5850, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11347574) \| [Preprint](https://arxiv.org/abs/2410.23919)
 
