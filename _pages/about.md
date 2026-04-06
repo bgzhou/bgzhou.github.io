@@ -87,12 +87,12 @@ Dr. Zhou's research interests include machine learning and data science as well 
 </details>
 
 # 💼 Professional Experience
-- Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London** (Advisor: **Prof. Bruno Clerckx** (IEEE Fellow, IEEE ComSoc Distinguished Lecturer))
+- Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London**
 
 # 🎓 Academic Qualifications
-- Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau** (Supervisor: **Prof. Shaodan Ma** (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC))
+- Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
 
-- Aug. 2018 - Jun. 2021, **Master of Science in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau** (Supervisor: **Prof. Shaodan Ma** (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC))
+- Aug. 2018 - Jun. 2021, **Master of Science in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
 
 - Sep. 2014 - Jun. 2018, **Bachelor of Engineering in Electrical Engineering**, School of Electrical and Information Engineering, **Jinan University**
 
@@ -103,20 +103,13 @@ Dr. Zhou's research interests include machine learning and data science as well 
 **Editorial Board**
 - Associate Editor for IEEE WCL, Mar. 2026 - present
 
-**Conference Organizing Committee**
+<!-- Track/Symposium/Workshop  -->
+<!-- - TPC Co-Chair for  -->
+
+**Conference Organizing Committee and Technical Program Committee (TPC)** 
 - General Co-Chair for IEEE GLOBECOM 2026 Workshop on Intelligent Surfaces and Analog Computing
 - General Co-Chair for IEEE/CIC ICCC 2026 Workshop on Intelligent Surfaces and Analog Computing
-
-<!-- Track/Symposium/Workshop  -->
-
-**Conference Technical Program Committee (TPC)**
-<!-- - TPC Co-Chair for  -->
 - TPC Member for IEEE GLOBECOM 2026, IEEE ICC 2026, IEEE VTC2026-Spring, IEEE VTC2025-Fall, WCSP 2025, IEEE VTC2025-Spring, IEEE VTC2024-Spring, etc.
-
-<!-- - WCSP 2025 - Symposium: AI for Communications and Networking
-- IEEE VTC2025-Fall - Tracks: Signal Processing for Wireless Communications; Multiple Antennas and Cooperative Communications; Recent Results
-- IEEE VTC2025-Spring - Track: Multiple Antennas and Cooperative Communications
-- IEEE VTC2024-Spring - Track: Signal Transmission and Reception -->
 
 **Journal Referee**
  - IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE Network, IEEE IoT-J, IEEE TCCN, IEEE TVT, IEEE WCL, etc.
