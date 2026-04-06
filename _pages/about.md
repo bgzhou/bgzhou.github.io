@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='bio'></span>
 
-Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom. He was a recipient of the European Union's Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025 call).
+Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, working with [Prof. Bruno Clerckx (IEEE Fellow, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He was a recipient of the European Union's Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025 call).
 
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications, wireless sensing, integrated sensing and communications, and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, IEEE RBME, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE WCL, etc.). He serves as an Associate Editor for IEEE WCL. He has served as a Technical Program Committee member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE ICC, IEEE VTC, WCSP) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, etc.).
+Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications, wireless sensing, and smart healthcare. He has published more than 20 papers in top journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, IEEE RBME, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE WCL, etc.). He serves as an Associate Editor for IEEE WCL. He has served as a General Co-Chair for workshops in IEEE GLOBECOM 2026 and IEEE/CIC ICCC 2026, and as a Technical Program Committee (TPC) member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE ICC, IEEE VTC) and as a reviewer for multiple top-tier journals and flagship international conferences (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI, etc.).
 
  <!-- with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations -->
 
@@ -87,12 +87,12 @@ Dr. Zhou's research interests include machine learning and data science as well 
 </details>
 
 # 💼 Professional Experience
-- Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London**
+- Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London** (Advisor: **Prof. Bruno Clerckx** (IEEE Fellow, IEEE ComSoc Distinguished Lecturer))
 
 # 🎓 Academic Qualifications
-- Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
+- Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau** (Supervisor: **Prof. Shaodan Ma** (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC))
 
-- Aug. 2018 - Jun. 2021, **Master of Science in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
+- Aug. 2018 - Jun. 2021, **Master of Science in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau** (Supervisor: **Prof. Shaodan Ma** (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC))
 
 - Sep. 2014 - Jun. 2018, **Bachelor of Engineering in Electrical Engineering**, School of Electrical and Information Engineering, **Jinan University**
 
@@ -103,8 +103,11 @@ Dr. Zhou's research interests include machine learning and data science as well 
 **Editorial Board**
 - Associate Editor for IEEE WCL, Mar. 2026 - present
 
-<!-- **Conference Organizing Committee**
-- Track/Symposium/Workshop General Co-Chair for IEEE GLOBECOM 2026 Workshops, IEEE/CIC ICCC 2026 Workshop, etc. -->
+**Conference Organizing Committee**
+- General Co-Chair for IEEE GLOBECOM 2026 Workshop on Intelligent Surfaces and Analog Computing
+- General Co-Chair for IEEE/CIC ICCC 2026 Workshop on Intelligent Surfaces and Analog Computing
+
+<!-- Track/Symposium/Workshop  -->
 
 **Conference Technical Program Committee (TPC)**
 <!-- - TPC Co-Chair for  -->
@@ -157,7 +160,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - Ain Shams Engineering Journal -->
 
 **Conference Reviewer**
-- ICLR, IJCNN, MICCAI, etc.
+- IJCNN, MICCAI, etc.
 
 <!-- - International Conference on Learning Representations (ICLR)
 - International Joint Conference on Neural Networks (IJCNN)
@@ -174,7 +177,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 # 🏆 Recognition and Awards
 - May 2023, Winning Prize of the First 6G Intelligent Wireless Communication System Competition (Ranking 9/1252), as the Captain
-- Apr. 2022, Second Prize of the First 6G AI Competition (Ranking 2/727), as the Captain
+- Apr. 2022, Second Prize of the First 6G AI Competition (Ranking 2/727), Individual Participant
 - May 2018, Second Prize of the ASC Student Supercomputer Challenge, as the Captain
 
 <!-- - Mar. 2017, National Encouragement Scholarship
@@ -380,14 +383,14 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 
 ### <font color=CornflowerBlue>Methods</font>
-- **Machine Learning**: Deep Learning, Graph Machine Learning, Generative Artificial Intelligence
+- **Machine Learning**: Statistical Machine Leanring (SML), Deep Learning (DL), Graph Machine Learning (GML), Generative Artificial Intelligence (GAI), Neural Natural Language Processing (Neural NLP)
 
 - **Data Science**: Statistical Analysis, Data Efficiency, Correlation Mining
 
-- **Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph
+<!-- - **Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph -->
 
 ### <font color=CornflowerBlue>Applications</font>
-- **Wireless Communications**: Knowledge and Data Driven Signal Processing in Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS); Integrated Sensing and Communications
+- **Wireless Communications and Sensing**: Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS); Integrated Sensing and Communications
 
 - **Applied Data Mining**: Spatial-Temporal (Demand) Forecasting, Energy Disaggregation
 
