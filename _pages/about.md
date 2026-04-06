@@ -153,7 +153,7 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - Ain Shams Engineering Journal -->
 
 **Conference Reviewer**
-- IJCNN, MICCAI, etc.
+- MICCAI, IJCNN, etc.
 
 <!-- - International Conference on Learning Representations (ICLR)
 - International Joint Conference on Neural Networks (IJCNN)
