@@ -49,7 +49,7 @@ My research mainly focuses on **Machine Learning and Data Science** as well as t
 
 Recent key projects include:
 * Knowledge-and-Data Driven CSI Acquisition
-* Machine Learning Empowered Wireless Communications (Prototyping)
+* Out-of-Band Modality Empowered Wireless Communications
 <!-- * Natural Language Processing for Smart Healthcare -->
 
 **[👉 Read more about my research frameworks and demo systems](/research/)**
@@ -63,10 +63,9 @@ Currently, mobile communications have evolved into 5G/B5G and we are now anticip
 
 However, extreme/massive MIMO also brings out **complicated channel characteristics** and **high overhead and computational complexity**, which are significantly challenging for channel state information (CSI) acquisition. It is fortunate that by learning from extensive data, some deep learning-based algorithms have been proposed to capture the complicated channel characteristics of massive MIMO channels and further improve the spectral and energy efficiencies of massive MIMO systems. Nonetheless, the high overhead and computational complexity of massive MIMO systems are not significantly reduced by existing deep learning-based algorithms. In addition, most existing deep learning-based algorithms are purely data-driven and basically rely on extensive collected data for learning the features of complicated wireless channels, leading to unaffordable data collection costs.
 
-To simultaneously improve spectral and energy efficiencies, reduce overhead and computational complexity, and circumvent extensive data collection towards accurate and efficient CSI acquisition, we investigate how to realize knowledge-and-data driven CSI estimation and feedback, particularly for massive MIMO systems. Both **domain knowledge**, e.g., multi-domain correlations and channel sparsity, and **learning data,** e.g., historical data and cross-domain data, are exploited for framework design, learning paradigm design, and computationally efficient design to achieve the aforementioned goals. Some frameworks and algorithms we proposed are listed above and the interested readers are referred to the following publications:
+To simultaneously improve spectral and energy efficiencies, reduce overhead and computational complexity, and circumvent extensive data collection towards accurate and efficient CSI acquisition, we investigate how to realize knowledge-and-data driven CSI estimation and feedback, particularly for massive MIMO systems. Both **domain knowledge**, e.g., multi-domain correlations and channel sparsity, and **learning data,** e.g., historical data and cross-domain data, are exploited for framework design, learning paradigm design, and computationally efficient design to achieve the aforementioned goals. Some frameworks and algorithms we proposed are listed in the above figure, and interested readers are referred to the following publications:
 
 <div class="notice--info" markdown="1">
-**📖 Related Publications:**
 
 **[J1]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
 
@@ -77,7 +76,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 </div>
 
 
-### <font color=CornflowerBlue>2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems</font>
+### <font color=CornflowerBlue>2. Out-of-Band Modality Empowered Wireless Communications</font>
 
 Vision-aided multi-user sensing and communications prototyping system:
 
@@ -85,7 +84,13 @@ Vision-aided multi-user sensing and communications prototyping system:
 
 Details of the prototyping system can be found in our [Lab Pages](https://www.fst.um.edu.mo/personal/shaodanma/research/) and the following publications.
 
-```[1] Kehui Li, Binggui Zhou, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring, pp. 1-6, 2024.```
+<div class="notice--info" markdown="1">
+
+**[J1]** Kehui Li, **Binggui Zhou**\*, Jiajia Guo, Feifei Gao, Guanghua Yang\*, and Shaodan Ma, “Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead”, **IEEE Transactions on Communications**, vol. 74, pp. 3858-3874, 2026. **(JCR Q1, IF: 8.3)** [Published Version](https://ieeexplore.ieee.org/document/11358948) \| [Preprint](https://arxiv.org/abs/2506.15136)
+
+**[C1]** Kehui Li, **Binggui Zhou**, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in **Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring**, pp. 1-6, 2024. [Published Version](https://ieeexplore.ieee.org/document/10683659)
+</div>
+
 
 ### <font color=CornflowerBlue>3. Pratical Verifications of Machine Learning Empowered Wireless Communications</font>
 
