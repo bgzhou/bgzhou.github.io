@@ -168,20 +168,17 @@ Dr. Zhou's research interests include machine learning and data science as well 
 - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
  -->
 
-# 🏆 Recognition and Awards
+<!-- # 🏆 Recognition and Awards
 - May 2023, Winning Prize of the First 6G Intelligent Wireless Communication System Competition (Ranking 9/1252), as the Captain
 - Apr. 2022, Second Prize of the First 6G AI Competition (Ranking 2/727), Individual Participant
-- May 2018, Second Prize of the ASC Student Supercomputer Challenge, as the Captain
+- May 2018, Second Prize of the ASC Student Supercomputer Challenge, as the Captain -->
 
-<!-- - Mar. 2017, National Encouragement Scholarship
-- Mar. 2016, National Encouragement Scholarship
-- Mar. 2015, National Encouragement Scholarship -->
-
+<!-- 
 # 🔉 Invited Talks
 - Dec. 2025, "Learning-Based Low-Overhead Channel Estimation and Feedback for Massive MIMO Systems", Huazhong University of Science and Technology
 - Dec. 2025, "Learning-Based Low-Overhead Channel Estimation and Feedback for Massive MIMO Systems", Nanjing University of Science and Technology
 - Aug. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", Guangxi University
-- Jul. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", South China Normal University
+- Jul. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", South China Normal University -->
 
 # 📝 Publications
 
