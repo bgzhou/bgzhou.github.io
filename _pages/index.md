@@ -3,6 +3,9 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+redirect_from: 
+  - /index/
+  - /index.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -65,19 +68,16 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 ```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios,” IEEE Transactions on Wireless Communications, vol. 24, no. 4, pp. 2797-2813, Apr. 2025.```
 
-> [1] **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “[Pay less but get more: A dual-attention-based channel estimation network for massive MIMO systems with low-density pilots](https://ieeexplore.ieee.org/document/10315065),” *IEEE Transactions on Wireless Communications*, vol. 23, no. 6, pp. 6061-6076, Jun. 2024.
-> 
-> [2] **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “[A low-overhead incorporation-extrapolation based few-shot CSI feedback framework for massive MIMO systems](https://ieeexplore.ieee.org/document/10600118),” *IEEE Transactions on Wireless Communications*, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.
-
 
 <div class="notice--info" markdown="1">
 **📖 Related Publications:**
 
-[1] **Binggui Zhou**, Xi Yang, et al., “[Pay less but get more...](link),” *IEEE Trans. Wireless Commun.*, 2024.
+**[J1]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
 
-[2] **Binggui Zhou**, Xi Yang, et al., “[A low-overhead...](link),” *IEEE Trans. Wireless Commun.*, 2024.
+**[J2]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
 
-[3] **Binggui Zhou**, Xi Yang, et al., “[Low-overhead channel estimation...](link),” *IEEE Trans. Wireless Commun.*, 2025.
+**[J3]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” **IEEE Transactions on Wireless Communications**, vol. 24, no. 4, pp. 2797-2813, Apr. 2025. **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10836149) \| [Preprint](https://arxiv.org/abs/2406.08887)
+
 </div>
 
 **🔖 References for this highlight:**
