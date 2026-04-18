@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Academic Services"
 permalink: /service/
 author_profile: true
