@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 # 🔥 News
+- 2026-04-04 **<font color=Green>Service</font>**: Two workshop proposals on "Intelligent Surfaces and Analog Computing" have been accepted by [IEEE GLOBECOM 2026](https://globecom2026.ieee-globecom.org/) and [IEEE/CIC ICCC 2026](https://iccc2026.ieee-iccc.org/), respecctively. Please consider submit your related research to our workshops!
+- 
 - 2026-03-27 **<font color=Blue>New submission</font>**: One co-authored paper titled [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.25299) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
 
 - 2026-03-05 **<font color=Green>Service</font>**: I have joined the Editorial Board of [***IEEE Wireless Communications Letters***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) as an Associate Editor.

@@ -24,6 +24,9 @@ Dr. Zhou's research interests include machine learning and data science as well 
  <!-- with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations -->
 
 # 🔥 News
+
+- 2026-04-04 **<font color=Green>Service</font>**: Two workshop proposals on "Intelligent Surfaces and Analog Computing" have been accepted by [IEEE GLOBECOM 2026](https://globecom2026.ieee-globecom.org/) and [IEEE/CIC ICCC 2026](https://iccc2026.ieee-iccc.org/), respecctively. Please consider submit your related research to our workshops!
+
 - 2026-03-27 **<font color=Blue>New submission</font>**: One co-authored paper titled [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.25299) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
 
 - 2026-03-05 **<font color=Green>Service</font>**: I have joined the Editorial Board of [***IEEE Wireless Communications Letters***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) as an Associate Editor.
