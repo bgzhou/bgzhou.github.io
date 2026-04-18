@@ -1,55 +1,30 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
+layout: single
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+# 🔎 Research
 
-<span class='anchor' id='bio'></span>
-
-Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, working with [Prof. Bruno Clerckx (IEEE Fellow, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He was a recipient of the European Union's Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025 call).
-
-Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications, wireless sensing, and smart healthcare. He has published more than 20 papers in top-tier journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, IEEE RBME, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE WCL). He serves as an Associate Editor for IEEE WCL and as a reviewer for many top-tier journals (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI). He has served as a General Co-Chair for workshops in IEEE GLOBECOM 2026 and IEEE/CIC ICCC 2026, and as a Technical Program Committee (TPC) member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE ICC, IEEE VTC).
-
- <!-- with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations -->
-
-# 🔥 News
-- 2026-03-27 **<font color=Blue>New submission</font>**: One co-authored paper titled [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.25299) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
-
-- 2026-03-05 **<font color=Green>Service</font>**: I have joined the Editorial Board of [***IEEE Wireless Communications Letters***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) as an Associate Editor.
-
-- 2026-02-09 **<font color=Orange>Project</font>**: Glad to share that I have been awarded the European Union's **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships** during the 2025 call (**success rate: 9.6%**).  I will move to [Delft University of Technology](https://www.tudelft.nl/en/), Netherlands, to start my project: **ISACare - Integrated WiFi Sensing and Communication for Sustainable and Robust Digital Health Monitoring**.
-
-- 2026-02-06 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems]() has been accepted to ***IEEE INFOCOM 2026 WORKSHOPS - DeepWireless: Deep Learning for Wireless Communications, Sensing, and Security***.
-
-- 2026-01-08 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://ieeexplore.ieee.org/document/11347574) has been accepted by ***IEEE Transactions on Network Science and Engineering***.
-
-- 2026-01-05 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://ieeexplore.ieee.org/document/11358948) has been accepted by ***IEEE Transactions on Communciations***.
+[**Research Interests**](#research-interests) | [**Research Highlights**](#research-highlights) | [**Collaborators**](#collaborators)
+## <font color=MediumAquaMarine>Research Interests</font>
 
 
-**[👉 View all news and past updates](/news/)** 
+### <font color=CornflowerBlue>Methods</font>
+- **Machine Learning**: Statistical Machine Leanring (SML), Deep Learning (DL), Graph Machine Learning (GML), Generative Artificial Intelligence (GAI), Neural Natural Language Processing (Neural NLP)
 
+- **Data Science**: Statistical Analysis, Data Efficiency, Correlation Mining
 
-# 🔎 Research Highlights
+<!-- - **Natural Language Processing**: Neural Natural Language Processing (Neural NLP); Knowledge Base/Graph -->
 
-My research mainly focuses on **Machine Learning and Data Science** as well as their applications in **Wireless Communications, Wireless Sensing, and Smart Healthcare**. 
+### <font color=CornflowerBlue>Applications</font>
+- **Wireless Communications and Sensing**: Massive/Extremely Large-Scale MIMO; Beyond Diagonal Reconfigurable Intelligent Surfaces (BD-RIS); Integrated Sensing and Communications
 
-Recent key projects include:
-* Knowledge-and-Data Driven CSI Acquisition
-* Machine Learning Empowered Wireless Communications (Prototyping)
-<!-- * Natural Language Processing for Smart Healthcare -->
+- **Applied Data Mining**: Spatial-Temporal (Demand) Forecasting, Energy Disaggregation
 
-**[👉 Read more about my research frameworks and demo systems](/research/)**
+- **Smart Healthcare**: Digital Health Mornitoring, Health Informatics
+
 ## <font color=MediumAquaMarine>Research Highlights</font>
 
 ### <font color=CornflowerBlue>1. Knowledge-and-Data Driven CSI Acquisition</font>
@@ -62,16 +37,11 @@ However, extreme/massive MIMO also brings out **complicated channel characterist
 
 To simultaneously improve spectral and energy efficiencies, reduce overhead and computational complexity, and circumvent extensive data collection towards accurate and efficient CSI acquisition, we investigate how to realize knowledge-and-data driven CSI estimation and feedback, particularly for massive MIMO systems. Both **domain knowledge**, e.g., multi-domain correlations and channel sparsity, and **learning data,** e.g., historical data and cross-domain data, are exploited for framework design, learning paradigm design, and computationally efficient design to achieve the aforementioned goals. Some frameworks and algorithms we proposed are listed above and the interested readers are referred to the following publications:
 
-<div class="notice--info" markdown="1">
-**📖 Related Publications:**
+```[1] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay less but get more: A dual-attention-based channel estimation network for massive MIMO systems with low-density pilots,” IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 6061-6076, Jun. 2024.```
 
-**[J1]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
+```[2] Binggui Zhou, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A low-overhead incorporation-extrapolation based few-shot CSI feedback framework for massive MIMO systems,” IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.```
 
-**[J2]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024.  **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
-
-**[J3]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios,” **IEEE Transactions on Wireless Communications**, vol. 24, no. 4, pp. 2797-2813, Apr. 2025. **(JCR Q1, IF: 8.9)** [Published Version](https://ieeexplore.ieee.org/document/10836149) \| [Preprint](https://arxiv.org/abs/2406.08887)
-
-</div>
+```[3] Binggui Zhou, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Low-overhead channel estimation via 3D extrapolation for TDD mmWave massive MIMO systems under high-mobility senarios,” IEEE Transactions on Wireless Communications, vol. 24, no. 4, pp. 2797-2813, Apr. 2025.```
 
 
 ### <font color=CornflowerBlue>2. Machine Learning Empowered Wireless Communications: Prototyping and Demo Systems</font>
@@ -107,5 +77,8 @@ The dual-attention-based CSI feedback model (left) and the quantization ensemble
 
 <!-- ### Other Topics, such as machine learning methodology -->
 
+## Collaborators
 
-**[👉 Read more about my research frameworks and demo systems](/research/)**
+I collaborate closely with [Prof. Shaodan Ma (Professor, University of Macau)](https://scholar.google.co.uk/citations?user=43edNugAAAAJ&hl=en), [Prof. Guanghua Yang (Professor, IET Fellow, Jinan University)](https://scholar.google.co.uk/citations?user=0GaD5AEAAAAJ&hl=en), [Prof. Bruno Clerckx (Professor, IEEE Fellow, Imperial College London)](https://profiles.imperial.ac.uk/b.clerckx), [Prof. Xi Yang (Professor, East China Normal University)](https://faculty.ecnu.edu.cn/_s15/yx2/main.psp), [Prof. Feifei Gao (Professor, IEEE Fellow, Tsinghua University)](https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en), [Prof. Zheng Shi (Professor, Jinan University)](https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en), [Prof. Qing Xue (Associate Professor, Chongqing University of Posts and Telecommunications)](https://scholar.google.com/citations?user=kK2thisAAAAJ&hl=zh-CN), [Prof. Weiqiang Tan (Professor, Guangzhou University)](https://aicom.gzhu.edu.cn/info/1160/1033.htm), and [Dr. Jintao Wang (Postdoctoral Researcher, University of Macau)](https://scholar.google.com/citations?hl=zh-CN&user=dkQrb10AAAAJ) on wireless communications, and with [Prof. Yunxuan Dong (Assistant Professor, Guangxi University)](https://scholar.google.com/citations?user=dYcYJfUAAAAJ&hl=en&authuser=1) on applied data mining.
+
+Feel free to [drop me an email](mailto:binggui.zhou@imperial.ac.uk) if you would like to collaborate with me.

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "About"
 permalink: /cv/
 author_profile: true
