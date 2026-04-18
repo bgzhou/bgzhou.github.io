@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Bio"
-    url: "/bio/"
+  - title: "About"
+    url: "/cv/"
 
   - title: "News"
     url: "/news/"
@@ -13,17 +13,17 @@ main:
   - title: "Research"
     url: "/research/"
 
-  - title: "Professional Experience"
-    url: "/#-professional-experience"
+  # - title: "Professional Experience"
+  #   url: "/#-professional-experience"
 
-  - title: "Academic Qualifications"
-    url: "/#-academic-qualifications"
+  # - title: "Academic Qualifications"
+  #   url: "/#-academic-qualifications"
 
   - title: "Academic Services"
-    url: "/#-academic-services"
+    url: "/service/"
 
-  - title: "Recognition and Awards"
-    url: "/#-recognition-and-awards"
+  # - title: "Recognition and Awards"
+  #   url: "/#-recognition-and-awards"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
