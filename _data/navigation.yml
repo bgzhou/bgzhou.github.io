@@ -13,14 +13,14 @@ main:
   - title: "Research"
     url: "/research/"
 
+  - title: "Academic Services"
+    url: "/service/"
+
   # - title: "Professional Experience"
   #   url: "/#-professional-experience"
 
   # - title: "Academic Qualifications"
   #   url: "/#-academic-qualifications"
-
-  - title: "Academic Services"
-    url: "/service/"
 
   # - title: "Recognition and Awards"
   #   url: "/#-recognition-and-awards"
