@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -29,7 +29,7 @@ author_profile: true
 
 ### <font color=CornflowerBlue>1. Knowledge-and-Data Driven CSI Acquisition</font>
 
-<img src='images/KDD_CSI.png' width = "1200" alt="" align=center />
+<img src='/images/KDD_CSI.png' width = "1200" alt="" align=center />
 
 Currently, mobile communications have evolved into 5G/B5G and we are now anticipating what 6G will be like. According to [1], the usage scenarios of IMT-2030 (6G) include immersive communication, hyper reliable and low-latency communication, massive communication, ubiquitous connectivity, integrated sensing and communication, etc. These usage scenarios raise **high data rate requirements**, **hyper reliability requirements**, and **massive connection requirements** to current wireless communication systems. To meet these requirements, extreme/massive MIMO has been recognized as an essential technology to provide spatial degrees of freedom, diversity or multiplexing gain, and array gain, thereby improving the spectral and energy efficiencies of wireless communication systems.
 
@@ -48,7 +48,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 Vision-aided multi-user sensing and communications prototyping system:
 
-<img src='images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
+<img src='/images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
 
 Details of the prototyping system can be found in our [Lab Pages](https://www.fst.um.edu.mo/personal/shaodanma/research/) and the following publications.
 
@@ -60,7 +60,7 @@ Details of the prototyping system can be found in our [Lab Pages](https://www.fs
 
 Channel modeling is an important area of 6G pre-research. To cope with the increasingly complex wireless communication environment and make full use of data-driven/knowledge-and-data driven algorithms for complex channel modeling, we propose a generative adversarial network (GAN) for channel modeling and constructing an extensive wireless channel dataset of high-quality samples using a small number of real channel samples. The proposed GAN is based on the multi-head self-attention mechanism and convolution operations. We decouple the channel generation problem into two parts: valid (meaningful) delayed **path position generation** and valid (meaningful) delayed **path generation**. Therefore, the generator contains two sub-networks. The path generation sub-network mainly exploits Transformer layers as the backbone, while the backbone of the path position generation sub-network is with a two-layer multi-layer perceptron structure. The discriminator exploits multiple convolutional downsampling modules to distinguish between generated samples and real samples.
 
-<img src='images/AICompetition_ChannelModeling.png' width = "1200" alt="" align=center />
+<img src='/images/AICompetition_ChannelModeling.png' width = "1200" alt="" align=center />
 
 (2) Our recent solution to **CSI feedback with limited samples** won the **Winning Prize (ranking 9/1252 teams)** of the **First 6G Intelligent Wireless Communication System Competition** held by the IMT-2030 (6G) Promotion Group and Guangdong OPPO Mobile Communications Corp., Ltd.
 
@@ -68,7 +68,7 @@ Deep learning based CSI feedback has received widespread attention from academia
 
 The dual-attention-based CSI feedback model (left) and the quantization ensemble framework (right):
 
-<img src='images/6GAICompetition_CSIFeedback.png' width = "1200" alt="" align=center />
+<img src='/images/6GAICompetition_CSIFeedback.png' width = "1200" alt="" align=center />
 
 
 <!-- ### 3. Machine Learning and Data Science

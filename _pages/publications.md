@@ -15,7 +15,7 @@ author_profile: true
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/SFTCE.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='/images/SFTCE.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios](https://ieeexplore.ieee.org/document/10836149)
@@ -29,7 +29,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/IEFSF.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='/images/IEFSF.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems](https://ieeexplore.ieee.org/document/10600118)
@@ -43,7 +43,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/DACEN.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='/images/DACEN.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots](https://ieeexplore.ieee.org/document/10315065)
@@ -59,7 +59,7 @@ author_profile: true
 
 ### <font color=CornflowerBlue>Machine Learning and Data Science</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KBS</div><img src='images/HSTGANet.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KBS</div><img src='/images/HSTGANet.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting](https://www.sciencedirect.com/science/article/pii/S0950705123000254)
@@ -73,7 +73,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>ASOC</div><img src='images/ITANet.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>ASOC</div><img src='/images/ITANet.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [Interpretable Temporal Attention Network for COVID-19 Forecasting](https://www.sciencedirect.com/science/article/pii/S1568494622001545)
@@ -90,7 +90,7 @@ author_profile: true
 
 ### <font color=CornflowerBlue>Smart Healthcare</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE RBME</div><img src='images/FeaturedArticlePromotion.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE RBME</div><img src='/images/FeaturedArticlePromotion.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [Natural Language Processing for Smart Healthcare](https://ieeexplore.ieee.org/abstract/document/9904944)
