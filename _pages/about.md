@@ -23,6 +23,27 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
  <!-- with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbgzhou%2Fbgzhou.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> citations -->
 
+# 🚀 Call for Papers
+
+- **Call for Workshop Papers**: IEEE GLOBECOM and IEEE/CIC ICCC Workshops on Intelligent Surfaces and Analog Computing
+
+[IEEE GLOBECOM 2026 Workshop](https://globecom2026.ieee-globecom.org/), Macau SAR, China
+
+Submission deadline: August 10, 2026
+
+[IEEE/CIC ICCC 2026 Workshop](https://iccc2026.ieee-iccc.org/), Wuhan, China
+
+Submission deadline: June 15, 2026
+
+These workshops feature two keynotes by [Prof. Bruno Clerckx (Imperial College London)](https://scholar.google.com/citations?hl=en&user=knPmgzsAAAAJ) and [Prof. Marco Di Renzo (King's College London and CNRS, CentraleSupelec, Paris-Saclay University)](https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en), and will gather researchers from academia and industry to push the boundaries of intelligent surfaces and analog computing.
+
+Please consider submitting your latest research and joining these workshops!
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+  <img src="/images/GC_CFP_Final.jpg" alt="CFP - GLOBECOM 2026" style="flex: 1 1 45%; min-width: 250px; width: 100%; border-radius: 5px;">
+  <img src="/images/ICCC_CFP_Final_Updated_V1.jpg" alt="CFP - ICCC 2026" style="flex: 1 1 45%; min-width: 250px; width: 100%; border-radius: 5px;">
+</div>
+
 # 🔥 News
 
 - 2026-04-04 **<font color=Green>Service</font>**: Two workshop proposals on "Intelligent Surfaces and Analog Computing" have been accepted by [IEEE GLOBECOM 2026](https://globecom2026.ieee-globecom.org/) and [IEEE/CIC ICCC 2026](https://iccc2026.ieee-iccc.org/), respecctively. Please consider submit your related research to our workshops!
@@ -57,7 +78,7 @@ Recent key projects include:
 
 ### <font color=CornflowerBlue>1. Knowledge-and-Data Driven CSI Acquisition</font>
 
-<img src='images/KDD_CSI.png' width = "1200" alt="" align=center />
+<img src='/images/KDD_CSI.png' width = "1200" alt="" align=center />
 
 Currently, mobile communications have evolved into 5G/B5G and we are now anticipating what 6G will be like. According to [1], the usage scenarios of IMT-2030 (6G) include immersive communication, hyper reliable and low-latency communication, massive communication, ubiquitous connectivity, integrated sensing and communication, etc. These usage scenarios raise **high data rate requirements**, **hyper reliability requirements**, and **massive connection requirements** to current wireless communication systems. To meet these requirements, extreme/massive MIMO has been recognized as an essential technology to provide spatial degrees of freedom, diversity or multiplexing gain, and array gain, thereby improving the spectral and energy efficiencies of wireless communication systems.
 
@@ -80,7 +101,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 Vision-aided multi-user sensing and communications prototyping system:
 
-<img src='images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
+<img src='/images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
 
 Details of the prototyping system can be found in our [Lab Pages](https://www.fst.um.edu.mo/personal/shaodanma/research/) and the following publications.
 
@@ -98,7 +119,7 @@ Details of the prototyping system can be found in our [Lab Pages](https://www.fs
 
 Channel modeling is an important area of 6G pre-research. To cope with the increasingly complex wireless communication environment and make full use of data-driven/knowledge-and-data driven algorithms for complex channel modeling, we propose a generative adversarial network (GAN) for channel modeling and constructing an extensive wireless channel dataset of high-quality samples using a small number of real channel samples. The proposed GAN is based on the multi-head self-attention mechanism and convolution operations. We decouple the channel generation problem into two parts: valid (meaningful) delayed **path position generation** and valid (meaningful) delayed **path generation**. Therefore, the generator contains two sub-networks. The path generation sub-network mainly exploits Transformer layers as the backbone, while the backbone of the path position generation sub-network is with a two-layer multi-layer perceptron structure. The discriminator exploits multiple convolutional downsampling modules to distinguish between generated samples and real samples.
 
-<img src='images/AICompetition_ChannelModeling.png' width = "1200" alt="" align=center />
+<img src='/images/AICompetition_ChannelModeling.png' width = "1200" alt="" align=center />
 
 (2) Our recent solution to **CSI feedback with limited samples** won the **Winning Prize (ranking 9/1252 teams)** of the **First 6G Intelligent Wireless Communication System Competition** held by the IMT-2030 (6G) Promotion Group and Guangdong OPPO Mobile Communications Corp., Ltd.
 
@@ -106,7 +127,7 @@ Deep learning based CSI feedback has received widespread attention from academia
 
 The dual-attention-based CSI feedback model (left) and the quantization ensemble framework (right):
 
-<img src='images/6GAICompetition_CSIFeedback.png' width = "1200" alt="" align=center />
+<img src='/images/6GAICompetition_CSIFeedback.png' width = "1200" alt="" align=center />
 
 
 <!-- ### 3. Machine Learning and Data Science
