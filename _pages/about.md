@@ -112,7 +112,7 @@ Details of the prototyping system can be found in our [Lab Pages](https://www.fs
 **[C1]** Kehui Li, **Binggui Zhou**, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in **Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring**, pp. 1-6, 2024. [Published Version](https://ieeexplore.ieee.org/document/10683659)
 </div>
 
-
+<!-- 
 ### <font color=CornflowerBlue>3. Pratical Verifications of Machine Learning Empowered Wireless Communications</font>
 
 (1) Check out [Our Solution](https://mp.weixin.qq.com/s/iZAZn3NxvLZKTBuukFsbsQ) to the **First 6G AI Competition** held by the Guangdong OPPO Mobile Communications Corp., Ltd, which won the **Second Prize** and ranked **2/727 teams**.
@@ -127,7 +127,7 @@ Deep learning based CSI feedback has received widespread attention from academia
 
 The dual-attention-based CSI feedback model (left) and the quantization ensemble framework (right):
 
-<img src='/images/6GAICompetition_CSIFeedback.png' width = "1200" alt="" align=center />
+<img src='/images/6GAICompetition_CSIFeedback.png' width = "1200" alt="" align=center /> -->
 
 
 <!-- ### 3. Machine Learning and Data Science
