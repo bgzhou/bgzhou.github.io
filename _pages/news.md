@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 # 🔥 News
+
+- 2026-04-22 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://arxiv.org/abs/2601.06858) has been accepted by ***IEEE Wireless Communications Letters***.
+
 - 2026-04-04 **<font color=Green>Service</font>**: Two workshop proposals on "Intelligent Surfaces and Analog Computing" have been accepted by [IEEE GLOBECOM 2026](https://globecom2026.ieee-globecom.org/) and [IEEE/CIC ICCC 2026](https://iccc2026.ieee-iccc.org/), respecctively. Please consider submit your related research to our workshops!
-- 
+
 - 2026-03-27 **<font color=Blue>New submission</font>**: One co-authored paper titled [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.25299) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
 
 - 2026-03-05 **<font color=Green>Service</font>**: I have joined the Editorial Board of [***IEEE Wireless Communications Letters***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) as an Associate Editor.
@@ -18,7 +21,7 @@ author_profile: true
 
 - 2026-01-08 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Intelligent Angle Map-based Beam Alignment for RIS-aided mmWave Communication Networks](https://ieeexplore.ieee.org/document/11347574) has been accepted by ***IEEE Transactions on Network Science and Engineering***.
 
-- 2026-01-05 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://ieeexplore.ieee.org/document/11358948) has been accepted by ***IEEE Transactions on Communciations***.
+- 2026-01-05 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Out-of-Band Modality Synergy Based Multi-User Beam Prediction and Proactive BS Selection with Zero Pilot Overhead](https://ieeexplore.ieee.org/document/11358948) has been accepted by ***IEEE Transactions on Communications***.
 
 
 <details>
