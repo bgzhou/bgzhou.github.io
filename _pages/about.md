@@ -45,7 +45,7 @@ Please consider submitting your latest research and joining these workshops!
 </div>
 
 # 🔥 News
-- 2026-04-22 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://arxiv.org/abs/2601.06858) has been accepted by ***IEEE Wireless Communications Letters***.
+- 2026-04-22 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://ieeexplore.ieee.org/document/11501820) has been accepted by ***IEEE Wireless Communications Letters***.
 
 - 2026-04-04 **<font color=Green>Service</font>**: Two workshop proposals on "Intelligent Surfaces and Analog Computing" have been accepted by [IEEE GLOBECOM 2026](https://globecom2026.ieee-globecom.org/) and [IEEE/CIC ICCC 2026](https://iccc2026.ieee-iccc.org/), respecctively. Please consider submit your related research to our workshops!
 

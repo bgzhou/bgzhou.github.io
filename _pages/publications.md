@@ -117,9 +117,9 @@ author_profile: true
 
 **[J16]** Yiyang Peng, **Binggui Zhou**, Yutong Zheng, Danilo Mandic, and Bruno Clerckx, “Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2603.25299)
 
-**[J15]** Qikai Xiao&dagger;, Kehui Li&dagger;, **Binggui Zhou**, and Shaodan Ma, “Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems,” submitted to **IEEE Wireless Communications Letters**. [Preprint](https://arxiv.org/abs/2601.06858)
+**[J15]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2510.15701)
 
-**[J14]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2510.15701)
+**[J14]** Qikai Xiao&dagger;, Kehui Li&dagger;, **Binggui Zhou**\*, and Shaodan Ma, “Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems,” accepted by **IEEE Wireless Communications Letters**. [Published Version](https://ieeexplore.ieee.org/document/11501820) \| [Preprint](https://arxiv.org/abs/2601.06858)
 
 **[J13]** Xi Yang\*, Dahong Du, Ting Liu, **Binggui Zhou**\*, and Shaodan Ma, “Channel Recovery for UPA-assisted Massive MlMO Systems with Asymmetrical Uplink and Downlink Transceivers,” **IEEE Internet of Things Journal**, vol. 13, no. 7, pp. 14829-14843, Apr. 2026. **(JCR Q1, IF: 8.2)** [Published Version](https://ieeexplore.ieee.org/document/11328073)
 
