@@ -9,6 +9,7 @@ author_profile: true
 # 📝 Publications
 
 [**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
+
 ## <font color=MediumAquaMarine>Representative Publications (by Topic)</font>
 
 (&dagger; for Equal Contribution; * for Corresponding Authorship.)
@@ -114,6 +115,8 @@ author_profile: true
 <!-- [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/abstract/document/9475482) 【公式形式显示】 -->
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
+
+**[J18]** **Binggui Zhou** and Bruno Clerckx, “Lossy Microwave Linear Analog Computer (MiLAC) for Future MIMO: Learning-based Architecture Designs for Spectral and Energy Efficiency Maximization,” submitted to **IEEE Transactions on Mobile Computing**. [Preprint](https://arxiv.org/abs/2606.02369)
 
 **[J17]** Yilong Liu, Xi Yang, **Binggui Zhou**, Yu Han, Ting Liu, and Shaodan Ma, “Low-Complexity Channel Estimation Framework for Non-Square UPA-Assisted XL-MIMO Systems,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2607.18744)
 
