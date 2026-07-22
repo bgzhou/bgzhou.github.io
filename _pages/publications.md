@@ -9,7 +9,6 @@ author_profile: true
 # 📝 Publications
 
 [**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
-
 ## <font color=MediumAquaMarine>Representative Publications (by Topic)</font>
 
 (&dagger; for Equal Contribution; * for Corresponding Authorship.)
