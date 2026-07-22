@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='bio'></span>
 
-Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, working with [Prof. Bruno Clerckx (IEEE Fellow, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He was a recipient of the European Union's Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025 call).
+Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao, China, in 2021 and 2024, respectively, with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and under the supervision of [Prof. Shaodan Ma (IEEE Senior Member, IEEE ComSoc Distinguished Lecturer, Associate Director of the SKL-IOTSC)](https://www.fst.um.edu.mo/personal/shaodanma/). He is currently a Postdoctoral Research Associate with the Department of Electrical and Electronic Engineering, Imperial College London, London, United Kingdom, working with [Prof. Bruno Clerckx (IEEE Fellow, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He was a recipient of the European Union's Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship.
 
 Dr. Zhou's research interests include machine learning and data science as well as their applications in wireless communications, wireless sensing, and smart healthcare. He has published more than 20 papers in top-tier journals and flagship international conferences (e.g., IEEE TWC, IEEE TCOM, IEEE RBME, KBS, IEEE IoT-J, IEEE TNSE, IEEE TVT, IEEE WCL). He serves as an Associate Editor for IEEE WCL and as a reviewer for many top-tier journals (e.g., IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE WCM, IEEE CM, IEEE TASE, PR, KBS, EAAI). He has served as a General Co-Chair for workshops in IEEE GLOBECOM 2026 and IEEE/CIC ICCC 2026, and as a Technical Program Committee (TPC) member for several flagship international conferences (e.g., IEEE GLOBECOM, IEEE ICC, IEEE VTC).
 
@@ -25,26 +25,28 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 # 🚀 Call for Papers
 
-- **Call for Workshop Papers**: IEEE GLOBECOM and IEEE/CIC ICCC Workshops on Intelligent Surfaces and Analog Computing
+- **Call for Workshop Papers**: IEEE GLOBECOM Workshop on Intelligent Surfaces and Analog Computing
 
 [IEEE GLOBECOM 2026 Workshop](https://globecom2026.ieee-globecom.org/), Macau SAR, China
 
 Submission deadline: August 10, 2026
 
-[IEEE/CIC ICCC 2026 Workshop](https://iccc2026.ieee-iccc.org/), Wuhan, China
+The workshop features two keynotes by [Prof. Bruno Clerckx (Imperial College London)](https://scholar.google.com/citations?hl=en&user=knPmgzsAAAAJ) and [Prof. Marco Di Renzo (King's College London and CNRS, CentraleSupelec, Paris-Saclay University)](https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en), and will gather researchers from academia and industry to push the boundaries of intelligent surfaces and analog computing.
 
-Submission deadline: June 15, 2026
-
-These workshops feature two keynotes by [Prof. Bruno Clerckx (Imperial College London)](https://scholar.google.com/citations?hl=en&user=knPmgzsAAAAJ) and [Prof. Marco Di Renzo (King's College London and CNRS, CentraleSupelec, Paris-Saclay University)](https://scholar.google.com/citations?user=5dRt0OoAAAAJ&hl=en), and will gather researchers from academia and industry to push the boundaries of intelligent surfaces and analog computing.
-
-Please consider submitting your latest research and joining these workshops!
+Please consider submitting your latest research and joining our workshop!
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
   <img src="/images/GC_CFP_Final.jpg" alt="CFP - GLOBECOM 2026" style="flex: 1 1 45%; min-width: 250px; width: 100%; border-radius: 5px;">
-  <img src="/images/ICCC_CFP_Final_Updated_V1.jpg" alt="CFP - ICCC 2026" style="flex: 1 1 45%; min-width: 250px; width: 100%; border-radius: 5px;">
 </div>
 
 # 🔥 News
+
+- 2026-07-20 **<font color=Blue>New submission</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://arxiv.org/abs/2510.15701v2) has been accepted by ***IEEE Transactions on Wireless Communications***.
+
+- 2026-06-01 **<font color=Blue>New submission</font>**: One paper titled [Lossy Microwave Linear Analog Computer (MiLAC) for Future MIMO: Learning-based Architecture Designs for Spectral and Energy Efficiency Maximization](https://arxiv.org/abs/2606.02369) has been submitted to ***IEEE Transactions on Mobile Computing*** for possible publication.
+
+- 2026-05-19 **<font color=Blue>New submission</font>**: One co-authored paper titled [Low-Complexity Channel Estimation Framework for Non-Square UPA-Assisted XL-MIMO Systems](https://arxiv.org/abs/2607.18744) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
+- 
 - 2026-04-22 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://ieeexplore.ieee.org/document/11501820) has been accepted by ***IEEE Wireless Communications Letters***.
 
 - 2026-04-04 **<font color=Green>Service</font>**: Two workshop proposals on "Intelligent Surfaces and Analog Computing" have been accepted by [IEEE GLOBECOM 2026](https://globecom2026.ieee-globecom.org/) and [IEEE/CIC ICCC 2026](https://iccc2026.ieee-iccc.org/), respecctively. Please consider submit your related research to our workshops!

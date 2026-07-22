@@ -7,6 +7,12 @@ author_profile: true
 
 # 🔥 News
 
+- 2026-07-20 **<font color=Blue>New submission</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://arxiv.org/abs/2510.15701v2) has been accepted by ***IEEE Transactions on Wireless Communications***.
+
+- 2026-06-01 **<font color=Blue>New submission</font>**: One paper titled [Lossy Microwave Linear Analog Computer (MiLAC) for Future MIMO: Learning-based Architecture Designs for Spectral and Energy Efficiency Maximization](https://arxiv.org/abs/2606.02369) has been submitted to ***IEEE Transactions on Mobile Computing*** for possible publication.
+
+- 2026-05-19 **<font color=Blue>New submission</font>**: One co-authored paper titled [Low-Complexity Channel Estimation Framework for Non-Square UPA-Assisted XL-MIMO Systems](https://arxiv.org/abs/2607.18744) has been submitted to ***IEEE Transactions on Wireless Communications*** for possible publication.
+
 - 2026-04-22 **<font color=Fuchsia>New publication</font>**: One co-authored paper titled [Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems](https://ieeexplore.ieee.org/document/11501820) has been accepted by ***IEEE Wireless Communications Letters***.
 
 - 2026-04-04 **<font color=Green>Service</font>**: Two workshop proposals on "Intelligent Surfaces and Analog Computing" have been accepted by [IEEE GLOBECOM 2026](https://globecom2026.ieee-globecom.org/) and [IEEE/CIC ICCC 2026](https://iccc2026.ieee-iccc.org/), respecctively. Please consider submit your related research to our workshops!
