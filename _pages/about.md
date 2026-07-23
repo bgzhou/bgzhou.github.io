@@ -25,9 +25,9 @@ Dr. Zhou's research interests include machine learning and data science as well 
 
 # 🚀 Call for Papers
 
-- **Call for Workshop Papers**: IEEE GLOBECOM Workshop on Intelligent Surfaces and Analog Computing
+- **Call for Workshop Papers**: [IEEE GLOBECOM 2026 Workshop on Intelligent Surfaces and Analog Computing](https://globecom2026.ieee-globecom.org/events/ws-36-ieee-globecom-2026-workshop-proposal-intelligent-surfaces-and-analog-computing-0)
 
-[IEEE GLOBECOM 2026 Workshop](https://globecom2026.ieee-globecom.org/), Macau SAR, China
+Location: Macau SAR, China
 
 Submission deadline: August 10, 2026
 
