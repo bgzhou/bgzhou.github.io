@@ -41,7 +41,7 @@ Please consider submitting your latest research and joining our workshop!
 
 # 🔥 News
 
-- 2026-07-20 **<font color=Fuchsia>New publication</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://arxiv.org/abs/2510.15701v2) has been accepted by ***IEEE Transactions on Wireless Communications***.
+- 2026-07-20 **<font color=Fuchsia>New publication</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://ieeexplore.ieee.org/document/11631638) has been accepted by ***IEEE Transactions on Wireless Communications***.
 
 - 2026-06-01 **<font color=Blue>New submission</font>**: One paper titled [Lossy Microwave Linear Analog Computer (MiLAC) for Future MIMO: Learning-based Architecture Designs for Spectral and Energy Efficiency Maximization](https://arxiv.org/abs/2606.02369) has been submitted to ***IEEE Transactions on Mobile Computing*** for possible publication.
 
