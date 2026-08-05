@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# 📝 Publications (by Topic)
+# 📝 Publications (Listed by Topic)
 
 (&dagger; for Equal Contribution; * for Corresponding Authorship; **J** for Journal Publications; **C** for Conference Publications; **P** for Patent Grants/Applications.)
 
@@ -14,9 +14,11 @@ author_profile: true
 
 ### <font color=CornflowerBlue>Wireless Communications</font>
 
-**[J18]** **Binggui Zhou** and Bruno Clerckx, “Lossy Microwave Linear Analog Computer (MiLAC) for Future MIMO: Learning-based Architecture Designs for Spectral and Energy Efficiency Maximization,” submitted to **IEEE Transactions on Mobile Computing**. [Preprint](https://arxiv.org/abs/2606.02369)
+**[J19]** **Binggui Zhou** and Bruno Clerckx, “Lossy Microwave Linear Analog Computer (MiLAC) for Future MIMO: Learning-based Architecture Designs for Spectral and Energy Efficiency Maximization,” submitted to **IEEE Transactions on Mobile Computing**. [Preprint](https://arxiv.org/abs/2606.02369)
 
-**[J17]** Yilong Liu, Xi Yang, **Binggui Zhou**, Yu Han, Ting Liu, and Shaodan Ma, “Low-Complexity Channel Estimation Framework for Non-Square UPA-Assisted XL-MIMO Systems,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2607.18744)
+**[J18]** Yilong Liu, Xi Yang, **Binggui Zhou**, Yu Han, Ting Liu, and Shaodan Ma, “Low-Complexity Channel Estimation Framework for Non-Square UPA-Assisted XL-MIMO Systems,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2607.18744)
+
+**[J17]** Minwei Zhang, Maobin Tang, **Binggui Zhou**, Jintao Wang, Weiqiang Tan, and Chunguo Li, “Learnable Adaptive Quantization for Deep Learning-Based Massive MIMO CSI Feedback,” submitted to **IEEE Transactions on Wireless Communications**.
 
 **[J16]** Yiyang Peng, **Binggui Zhou**, Yutong Zheng, Danilo Mandic, and Bruno Clerckx, “Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces,” submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2603.25299)
 
