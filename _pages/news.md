@@ -7,6 +7,8 @@ author_profile: true
 
 # 🔥 News
 
+- 2026-09-01 I have joined the Department of Software Technology, Delft University of Technology as a Marie Curie Fellow.
+
 - 2026-07-20 **<font color=Fuchsia>New publication</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://ieeexplore.ieee.org/document/11631638) has been accepted by ***IEEE Transactions on Wireless Communications***.
 
 - 2026-06-01 **<font color=Blue>New submission</font>**: One paper titled [Lossy Microwave Linear Analog Computer (MiLAC) for Future MIMO: Learning-based Architecture Designs for Spectral and Energy Efficiency Maximization](https://arxiv.org/abs/2606.02369) has been submitted to ***IEEE Transactions on Mobile Computing*** for possible publication.
@@ -64,7 +66,7 @@ author_profile: true
 
   <li>2024-07-11 <strong><span style="color: Red;">Recognition</span></strong>: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944">Natural Language Processing for Smart Healthcare</a> has been listed as an 🏆 <em><span style="color: Red;">ESI Highly Cited Paper</span></em>.</li>
 
-  <li>2024-07-10 Successfully defended my PhD thesis! And I will join the Department of Electrical and Electronic Engineering, Imperial College London, as a Postdoctoral Research Associate this Fall.</li>
+  <li>2024-07-10 Successfully defended my PhD thesis! And I will join the Department of Electrical and Electronic Engineering, Imperial College London as a Postdoctoral Research Associate this Fall.</li>
 
   <li>2024-06-19 <strong><span style="color: Fuchsia;">New publication</span></strong>: One paper titled <a href="https://ieeexplore.ieee.org/document/10600118">A Low-Overhead Incorporation-Extrapolation Based Few-Shot CSI Feedback Framework for Massive MIMO Systems</a> has been accepted by <em>IEEE Transactions on Wireless Communications</em>.</li>
 
