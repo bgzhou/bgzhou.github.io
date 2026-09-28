@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 # 💼 Professional Experience
-- Sep. 2024 - present, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London**
+- Sep. 2026 - present, **Marie Curie Fellow**, Department of Computer Science, **Delft University of Technology**
+
+- Sep. 2024 - Aug. 2026, **Postdoctoral Research Associate**, Department of Electrical and Electronic Engineering, **Imperial College London**
 
 # 🎓 Academic Qualifications
 - Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
