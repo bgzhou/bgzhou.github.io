@@ -7,6 +7,8 @@ author_profile: true
 
 # 🔥 News
 
+- 2026-10-27 **<font color=Fuchsia>New publication</font>**: Our co-authored paper [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.25299) has been published in ***IEEE Transactions on Wireless Communications***, vol. 25, pp. 25146–25162, 2026.
+
 - 2026-09-01 I have joined the Department of Computer Science, Delft University of Technology as a Marie Curie Fellow.
 
 - 2026-07-20 **<font color=Fuchsia>New publication</font>**: One paper titled [Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization](https://ieeexplore.ieee.org/document/11631638) has been accepted by ***IEEE Transactions on Wireless Communications***.
