@@ -20,7 +20,7 @@ author_profile: true
 
 **[J17]** Minwei Zhang, Maobin Tang, **Binggui Zhou**, Jintao Wang, Weiqiang Tan, and Chunguo Li, “Learnable Adaptive Quantization for Deep Learning-Based Massive MIMO CSI Feedback,” submitted to **IEEE Transactions on Wireless Communications**.
 
-**[J16]** Yiyang Peng, **Binggui Zhou**, Yutong Zheng, Danilo Mandic, and Bruno Clerckx, “Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces,” **IEEE Transactions on Wireless Communications**, vol. 25, pp. 25146–25162, 2026. [Preprint](https://arxiv.org/abs/2603.25299)
+**[J16]** Yiyang Peng, **Binggui Zhou**, Yutong Zheng, Danilo Mandic, and Bruno Clerckx, “Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces,” **IEEE Transactions on Wireless Communications**, vol. 25, pp. 25146–25162, 2026. [Published Version](https://ieeexplore.ieee.org/document/11739613) \| [Preprint](https://arxiv.org/abs/2603.25299)
 
 **[J15]** **Binggui Zhou** and Bruno Clerckx, “Beyond-Diagonal RIS Under Non-Idealities: Learning-Based Architecture Discovery and Optimization,” **IEEE Transactions on Wireless Communications**, vol. 25, pp. 20606-20622, 2026. [Published Version](https://ieeexplore.ieee.org/document/11631638) \|  [Preprint](https://arxiv.org/abs/2510.15701)
 

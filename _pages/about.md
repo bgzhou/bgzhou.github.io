@@ -45,7 +45,7 @@ Please consider submitting your latest research and joining our workshop!
 
 # 🔥 News
 
-- 2026-10-27 **<font color=Fuchsia>New publication</font>**: One co-authored paper [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.25299) has been published in ***IEEE Transactions on Wireless Communications***, vol. 25, pp. 25146–25162, 2026.
+- 2026-10-27 **<font color=Fuchsia>New publication</font>**: One co-authored paper [Joint Training Scattering Matrix Learning and Channel Estimation for Beyond-Diagonal Reconfigurable Intelligent Surfaces](https://ieeexplore.ieee.org/document/11739613) has been published in ***IEEE Transactions on Wireless Communications***, vol. 25, pp. 25146–25162, 2026.
 
 - 2026-09-01 I have joined the Department of Computer Science, Delft University of Technology as a Marie Curie Fellow.
 
